@@ -5,7 +5,7 @@ layout: ../../layouts/MainLayout.astro
 ---
 
 ## Important note:
-If you are looking to learn CAD for use in FTC at Westwood Robotics, look into our OnShape Lessons found here: [CAD homepage](./index)
+If you are looking to learn CAD for use in FTC at Westwood Robotics, look into our OnShape Lessons found here: [CAD homepage](./)
 
 ## Signing up:
 
