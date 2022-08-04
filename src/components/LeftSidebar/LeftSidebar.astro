@@ -1,6 +1,6 @@
 ---
-import { getLanguageFromURL } from "../../languages.ts";
-import { SIDEBAR } from "../../config.ts";
+import { getLanguageFromURL } from "../../languages";
+import { SIDEBAR } from "../../config";
 const { currentPage } = Astro.props;
 const currentPageMatch = currentPage.slice(1);
 const langCode = getLanguageFromURL(currentPage);
@@ -27,7 +27,8 @@ const sidebarSections = SIDEBAR[langCode].reduce((col, item, i) => {
 		{sidebarSections.map((section) => (
 			<li>
 				<div class="nav-group">
-					<h2 class="nav-group-title">{section.text}</h2>
+					<h2 class="nav-group-title"><a href={`${Astro.site.pathname}${section.link}`}
+									aria-current={`${currentPageMatch === section.link ? "page" : "false"}`}>{section.text}</a></h2>
 					<ul>
 						{section.children.map((child) => (
 							<li class="nav-link">
