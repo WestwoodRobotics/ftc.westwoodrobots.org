@@ -35,8 +35,8 @@ export const KNOWN_LANGUAGES = {
 export const SIDEBAR = {
 	en: [
 		{ text: '', header: true },
-		{ text: 'Programming', header: true, link: '/programming' },
-		{ text: 'Coding Teleops', link: '/programming/teleop' },
+		{ text: 'Programming', header: true, link: 'programming/' },
+		{ text: 'Coding Teleops', link: 'teleop' },
 		{ text: 'Page 2', link: 'en/page-2' },
 		{ text: 'Page 3', link: 'en/page-3' },
 
