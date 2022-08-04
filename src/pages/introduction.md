@@ -1,6 +1,6 @@
 ---
 title: Introduction
-description: Intro to our website.
+description: WELCOME TO FTC!!!!!!!!!
 layout: ../layouts/MainLayout.astro
 ---
 

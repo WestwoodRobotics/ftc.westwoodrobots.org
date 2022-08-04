@@ -37,10 +37,21 @@ export const SIDEBAR = {
 		{ text: '', header: true },
 		{ text: 'Programming', header: true, link: 'programming/' },
 		{ text: 'Coding Teleops', link: 'teleop' },
-		{ text: 'Page 2', link: 'en/page-2' },
-		{ text: 'Page 3', link: 'en/page-3' },
+		{ text: 'How to touch grass', link: 'touching-grass'},
 
-		{ text: 'Another Section', header: true },
-		{ text: 'Page 4', link: 'en/page-4' },
+		{ text: 'CAD', header: true, link: 'cad/' },
+		{ text: 'OnShape Extensions', link: 'onshape-extensions' },
+		{ text: 'Getting started with Autodesk', link: 'autodesk'},
+		{ text: 'Advanced tips and tricks', link: 'tips-tricks'},
+
+		{ text: 'Hardware', header: true, link: 'hardware/'},
+		{ text: 'Getting to know your allen keys', link: 'allen-keys'},
+		{ text: 'The Maker Space', link: 'maker-space'},
+
+		{ text: 'Outreach', header: true, link: 'outreach/'},
+		{ text: 'Top 10 outreach projects', link: 'top-10-outreach-projects'},
+		
+		{ text: 'Marketing', header: true, link: 'marketing/'},
+		{ text: 'Help us find sponsors!', link: 'how-to-help-with-sponsors'},,
 	],
 };

@@ -10,4 +10,4 @@ layout: ../../layouts/MainLayout.astro
 - [day 2 link](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 ## Chad Coding stuffs:
-- [Teleop explained](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+- [Teleop explained](./teleop)
