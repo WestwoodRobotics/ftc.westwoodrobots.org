@@ -1,22 +1,3 @@
-# Astro Starter Kit: Docs Site
-
-```bash
-npm init astro -- --template docs
-```
-
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/withastro/astro/tree/latest/examples/docs)
-
-## Features
-
-- ✅ **Full Markdown support**
-- ✅ **Responsive mobile-friendly design**
-- ✅ **Sidebar navigation**
-- ✅ **Search (powered by Algolia)**
-- ✅ **Multi-language i18n**
-- ✅ **Automatic table of contents**
-- ✅ **Automatic list of contributors**
-- ✅ (and, best of all) **dark mode**
-
 ## Commands Cheatsheet
 
 All commands are run from the root of the project, from a terminal:
@@ -34,11 +15,9 @@ To deploy your site to production, check out our [Deploy an Astro Website](https
 
 Welcome! Check out [our documentation](https://docs.astro.build) or jump into our [Discord server](https://astro.build/chat).
 
-## Customize This Theme
-
 ### Site metadata
 
-`src/config.ts` contains several data objects that describe metadata about your site like title, description, default language, and Open Graph details. You can customize these to match your project.
+`src/config.ts` contains several data objects that describe metadata about this site like title, description, default language, and Open Graph details.
 
 ### CSS styling
 
