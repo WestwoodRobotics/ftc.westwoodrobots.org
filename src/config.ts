@@ -1,6 +1,6 @@
 export const SITE = {
-	title: 'Documentation',
-	description: 'Your website description.',
+	title: 'Westwood Robotics FTC',
+	description: 'FTC Guidebook.',
 	defaultLanguage: 'en_US',
 };
 
@@ -39,7 +39,11 @@ export const SIDEBAR = {
 		{ text: 'Coding Teleops', link: 'teleop' },
 		{ text: 'GitHub', link: 'GitHub'},
 
-		{ text: 'CAD', header: true, link: 'cad/' },
+		{ text: 'Workshop', header: true, link: 'workshop/'},
+		{ text:'Onshape Basics', link: 'onshape'},
+		{ text: 'Design Basics', link: 'designbasics'},
+
+		{ text: 'CAD', header: true, link: 'cad/' },		
 		{ text: 'OnShape Extensions', link: 'onshape-extensions' },
 		{ text: 'Getting started with Autodesk', link: 'autodesk'},
 		{ text: 'Advanced tips and tricks', link: 'tips-tricks'},
