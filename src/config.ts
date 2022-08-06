@@ -35,27 +35,27 @@ export const KNOWN_LANGUAGES = {
 export const SIDEBAR = {
 	en: [
 		{ text: '', header: true },
-		{ text: 'Programming', header: true, link: 'programming/' },
+		{ text: 'Programming', header: true, link: 'wwroboftc/programming/' },
 		{ text: 'Coding Teleops', link: 'teleop' },
 		{ text: 'GitHub', link: 'GitHub'},
 
-		{ text: 'Workshop', header: true, link: 'workshop/'},
+		{ text: 'Workshop', header: true, link: 'wwroboftc/workshop/'},
 		{ text:'Onshape Basics', link: 'onshape'},
 		{ text: 'Design Basics', link: 'designbasics'},
 
-		{ text: 'CAD', header: true, link: 'cad/' },		
+		{ text: 'CAD', header: true, link: 'wwroboftc/cad/' },		
 		{ text: 'OnShape Extensions', link: 'onshape-extensions' },
 		{ text: 'Getting started with Autodesk', link: 'autodesk'},
 		{ text: 'Advanced tips and tricks', link: 'tips-tricks'},
 
-		{ text: 'Hardware', header: true, link: 'hardware/'},
+		{ text: 'Hardware', header: true, link: 'wwroboftc/hardware/'},
 		{ text: 'Getting to know your allen keys', link: 'allen-keys'},
 		{ text: 'The Maker Space', link: 'maker-space'},
 
-		{ text: 'Outreach', header: true, link: 'outreach/'},
+		{ text: 'Outreach', header: true, link: 'wwroboftc/outreach/'},
 		{ text: 'Top 10 outreach projects', link: 'top-10-outreach-projects'},
 		
-		{ text: 'Marketing', header: true, link: 'marketing/'},
+		{ text: 'Marketing', header: true, link: 'wwroboftc/marketing/'},
 		{ text: 'Help us find sponsors!', link: 'how-to-help-with-sponsors'},,
 	],
 };
