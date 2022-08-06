@@ -9,3 +9,5 @@ layout: ../../layouts/MainLayout.astro
 ## FTC specific extensions
 
 ### The Chain Tool
+
+<iframe src="https://docs.google.com/presentation/d/1zsX3MBvVBnlJCBb46qMWJGVUHbGdvXCdxKyE4t10-oM/embed" frameborder="0" width="800"></iframe>

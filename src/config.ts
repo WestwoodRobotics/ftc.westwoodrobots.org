@@ -37,7 +37,7 @@ export const SIDEBAR = {
 		{ text: '', header: true },
 		{ text: 'Programming', header: true, link: 'programming/' },
 		{ text: 'Coding Teleops', link: 'teleop' },
-		{ text: 'How to touch grass', link: 'touching-grass'},
+		{ text: 'GitHub', link: 'GitHub'},
 
 		{ text: 'CAD', header: true, link: 'cad/' },
 		{ text: 'OnShape Extensions', link: 'onshape-extensions' },
