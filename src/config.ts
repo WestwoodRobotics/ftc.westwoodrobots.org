@@ -8,8 +8,7 @@ export const OPEN_GRAPH = {
 	image: {
 		src: 'https://github.com/WestwoodRobotics/wwroboftc/blob/main/src/wwrobologo.png?raw=true',
 		alt:
-			'astro logo on a starry expanse of space,' +
-			' with a purple saturn-like planet floating in the right foreground',
+			'The epic robot that is Westwood Robotics, the Westwood Robotics FTC team, and the Westwood Robotics FTC team logo.',
 	},
 	twitter: 'astrodotbuild',
 };
@@ -34,6 +33,8 @@ export const KNOWN_LANGUAGES = {
 
 export const SIDEBAR = {
 	en: [
+		{ text: 'How to Contribute', link: 'wwroboftc/contribute' },
+
 		{ text: '', header: true },
 		{ text: 'Programming', header: true, link: 'wwroboftc/programming/' },
 		{ text: 'Coding Teleops', link: 'teleop' },
@@ -59,5 +60,7 @@ export const SIDEBAR = {
 		
 		{ text: 'Marketing', header: true, link: 'wwroboftc/marketing/'},
 		{ text: 'Help us find sponsors!', link: 'how-to-help-with-sponsors'},,
+
+		
 	],
 };
