@@ -46,6 +46,9 @@ If you want to embed google slides, google docs, or need any help with editing t
 #### Creating a New Page
 If you want to add something to the website that wouldn't fit in any of the already present pages, you can create a new page.
 
+##### Find a Folder
+Find a folder (programming, CAD, etc..)
+
 
 
 
