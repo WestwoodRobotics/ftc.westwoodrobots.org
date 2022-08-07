@@ -47,7 +47,11 @@ If you want to embed google slides, google docs, or need any help with editing t
 If you want to add something to the website that wouldn't fit in any of the already present pages, you can create a new page.
 
 ##### Find a Folder
-Find a folder (programming, CAD, etc..)
+Find a folder (programming, CAD, etc..) that best suites your new page. If you feel that there needs to be a new folder, then contact [Reet (Discord: DrIronfist#2548)](https://discord.com/users/726608190023663666), [Jadon (Discord: jadopotato#4717)](https://discord.com/users/542163475380830208), or [Abraham (Discord: Cesar_Oso#7229)](https://discord.com/users/770472531324698624). 
+
+##### Create a file
+Create a new file 
+
 
 
 
