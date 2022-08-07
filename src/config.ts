@@ -37,6 +37,7 @@ export const SIDEBAR = {
 		{ text: '', header: true },
 		{ text: 'Programming', header: true, link: 'programming/' },
 		{ text: 'Coding Teleops', link: 'teleop' },
+		{ text: 'Java', link: 'java' },
 		{ text: 'How to touch grass', link: 'touching-grass'},
 
 		{ text: 'CAD', header: true, link: 'cad/' },
