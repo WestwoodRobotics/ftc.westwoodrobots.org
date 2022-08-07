@@ -33,9 +33,9 @@ export const KNOWN_LANGUAGES = {
 
 export const SIDEBAR = {
 	en: [
-		{ text: 'How to Contribute', link: 'wwroboftc/contribute' },
-
 		{ text: '', header: true },
+		{ text: 'How to Contribute', header: true, link: 'wwroboftc/contribute/' },
+
 		{ text: 'Programming', header: true, link: 'wwroboftc/programming/' },
 		{ text: 'Coding Teleops', link: 'teleop' },
 		{ text: 'Java', link: 'java' },
