@@ -33,31 +33,31 @@ export const GITHUB_EDIT_URL = `https://github.com/WestwoodRobotics/wwroboftc/`;
 
 export const SIDEBAR = {
 	en: [
-		{ text: 'Workshop', header: true, link: 'wwroboftc/workshop/'},
+		{ text: 'Workshop', header: true, link: 'workshop/'},
 		{ text:'Onshape Basics', link: 'onshape'},
 		{ text: 'Design Basics', link: 'designbasics'},
 
-		{ text: 'Programming', header: true, link: 'wwroboftc/programming/' },
+		{ text: 'Programming', header: true, link: 'programming/' },
 		{ text: 'Coding Teleops', link: 'teleop' },
 		{ text: 'Java', link: 'java' },
 		{ text: 'How to touch grass', link: 'touching-grass'},
 		{ text: 'GitHub', link: 'GitHub'},
 
-		{ text: 'CAD', header: true, link: 'wwroboftc/cad/' },		
+		{ text: 'CAD', header: true, link: 'cad/' },		
 		{ text: 'OnShape Extensions', link: 'onshape-extensions' },
 		{ text: 'Getting started with Autodesk', link: 'autodesk'},
 		{ text: 'Advanced tips and tricks', link: 'tips-tricks'},
 
-		{ text: 'Hardware', header: true, link: 'wwroboftc/hardware/'},
+		{ text: 'Hardware', header: true, link: 'hardware/'},
 		{ text: 'Getting to know your allen keys', link: 'allen-keys'},
 		{ text: 'The Maker Space', link: 'maker-space'},
 
-		{ text: 'Outreach', header: true, link: 'wwroboftc/outreach/'},
+		{ text: 'Outreach', header: true, link: 'outreach/'},
 		{ text: 'Top 10 outreach projects', link: 'top-10-outreach-projects'},
 		
-		{ text: 'Marketing', header: true, link: 'wwroboftc/marketing/'},
+		{ text: 'Marketing', header: true, link: 'marketing/'},
 		{ text: 'Help us find sponsors!', link: 'how-to-help-with-sponsors'},,
 
-		{ text: 'How to Contribute', header: true, link: 'wwroboftc/contribute/' },
+		{ text: 'How to Contribute', header: true, link: 'contribute/' },
 	],
 };
