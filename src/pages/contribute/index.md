@@ -71,7 +71,10 @@ layout: ../../layouts/MainLayout.astro
 After this you should be good to go adding [markdown to your page and editing the file](#edit-the-md-file)!
 > NOTE: **DO NOT** add anything between the sets of ```---```!!!
 
+### Other Changes to the Site
+If you have or want to gain programming experience, head over to the [issues](https://github.com/WestwoodRobotics/wwroboftc/issues) tab of this repository on github to find coding tasks that need working on.
 
+Even if you don't feel lie writing any code but feel strongly that there need to be changes to the site (not related to page content), then feel free to [add an issue](https://github.com/WestwoodRobotics/wwroboftc/issues) and mark it as an enhancement (for new feautres/styling) or bug (for problems). Remember, issues on github does not always mean problems.
 
 
 
