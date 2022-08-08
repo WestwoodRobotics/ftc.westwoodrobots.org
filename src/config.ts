@@ -25,11 +25,11 @@ export const GITHUB_EDIT_URL = `https://github.com/WestwoodRobotics/wwroboftc/`;
 
 // Uncomment this to enable site search.
 // See "Algolia" section of the README for more information.
-// export const ALGOLIA = {
-//   indexName: 'XXXXXXXXXX',
-//   appId: 'XXXXXXXXXX',
-//   apiKey: 'XXXXXXXXXX',
-// }
+export const ALGOLIA = {
+  indexName: 'wwroboftc_index',
+  appId: 'XAT0LA8QPR',
+  apiKey: 'cbaeb9ad9724d5334071cb65a196fadf',
+}
 
 export const SIDEBAR = {
 	en: [
