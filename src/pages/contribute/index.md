@@ -38,6 +38,8 @@ Inside of the pages folder navigate to whichever folder contains the page that y
 
 Once you've found the file you want to edit, open it up. 
 
+### Step 3: laying down your knowledge
+
 #### Edit the md file
 You can edit the pages using **Markdown**. If you do not know what markdown is, learn about it [here](https://www.markdownguide.org/cheat-sheet/) (its just for formatting).
 
@@ -50,9 +52,23 @@ If you want to add something to the website that wouldn't fit in any of the alre
 Find a folder (programming, CAD, etc..) that best suites your new page. If you feel that there needs to be a new folder, then contact [Reet (Discord: DrIronfist#2548)](https://discord.com/users/726608190023663666), [Jadon (Discord: jadopotato#4717)](https://discord.com/users/542163475380830208), or [Abraham (Discord: Cesar_Oso#7229)](https://discord.com/users/770472531324698624). 
 
 ##### Create a file
-Create a new file that ends in ```.md```. Whatever you name this file will be the URL extension. For example, if you call your file ```programming-autons.md``` and put it in the ```programming``` folder, your page can be reached at westwoodrobotics.github.io/wwroboftc/programming/programming-autons. When you write your file name make sure that it has no spaces
+Create a new file that ends in ```.md```. Whatever you name this file will be the URL extension. For example, if you call your file ```programming-autons.md``` and put it in the ```programming``` folder, your page can be reached at westwoodrobotics.github.io/wwroboftc/programming/programming-autons. When you write your file name make sure that it has **no spaces**, as this will do wierd stuff to the URL.
 
+##### Add this
+Before you do anything to the file, copy and paste the following code to the top of the md file:
+```
+---
+title: the title of your page (will be displayed on your page)
+description: a description of your page (will be displayed on your page)
+layout: ../../layouts/MainLayout.astro
+---
+```
+> don't change that last line unless your md file is 
+> - inside of a folder inside of a folder in the pages folder (add a ../)
+> - or inside only the pages folder (take away one ../)
+> in which cases you would have to change the number of ../s 
 
+After this you should be good to go adding [markdown to your page and editing the file](#edit-the-md-file)!
 
 
 
