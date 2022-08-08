@@ -18,10 +18,10 @@ export const KNOWN_LANGUAGES = {
 };
 
 // Uncomment this to add an "Edit this page" button to every page of documentation.
-// export const GITHUB_EDIT_URL = `https://github.com/withastro/astro/blob/main/docs/`;
+export const GITHUB_EDIT_URL = `https://github.com/WestwoodRobotics/wwroboftc/`;
 
 // Uncomment this to add an "Join our Community" button to every page of documentation.
-// export const COMMUNITY_INVITE_URL = `https://astro.build/chat`;
+// export const COMMUNITY_INVITE_URL = `https://discord.com/channels/689167175214301254/848353976659214366`;
 
 // Uncomment this to enable site search.
 // See "Algolia" section of the README for more information.
@@ -33,18 +33,15 @@ export const KNOWN_LANGUAGES = {
 
 export const SIDEBAR = {
 	en: [
-		{ text: '', header: true },
-		{ text: 'How to Contribute', header: true, link: 'wwroboftc/contribute/' },
+		{ text: 'Workshop', header: true, link: 'wwroboftc/workshop/'},
+		{ text:'Onshape Basics', link: 'onshape'},
+		{ text: 'Design Basics', link: 'designbasics'},
 
 		{ text: 'Programming', header: true, link: 'wwroboftc/programming/' },
 		{ text: 'Coding Teleops', link: 'teleop' },
 		{ text: 'Java', link: 'java' },
 		{ text: 'How to touch grass', link: 'touching-grass'},
 		{ text: 'GitHub', link: 'GitHub'},
-
-		{ text: 'Workshop', header: true, link: 'wwroboftc/workshop/'},
-		{ text:'Onshape Basics', link: 'onshape'},
-		{ text: 'Design Basics', link: 'designbasics'},
 
 		{ text: 'CAD', header: true, link: 'wwroboftc/cad/' },		
 		{ text: 'OnShape Extensions', link: 'onshape-extensions' },
@@ -61,6 +58,6 @@ export const SIDEBAR = {
 		{ text: 'Marketing', header: true, link: 'wwroboftc/marketing/'},
 		{ text: 'Help us find sponsors!', link: 'how-to-help-with-sponsors'},,
 
-		
+		{ text: 'How to Contribute', header: true, link: 'wwroboftc/contribute/' },
 	],
 };

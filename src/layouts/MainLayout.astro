@@ -12,7 +12,7 @@ const { content = {} } = Astro.props;
 const canonicalURL = new URL(Astro.url.pathname, Astro.site);
 const currentPage = Astro.url.pathname;
 const currentFile = `src/pages${currentPage.replace(/\/$/, "")}.md`;
-// const githubEditUrl = CONFIG.GITHUB_EDIT_URL && CONFIG.GITHUB_EDIT_URL + currentFile;
+const githubEditUrl = CONFIG.GITHUB_EDIT_URL && CONFIG.GITHUB_EDIT_URL + currentFile;
 ---
 
 <html dir={content.dir ?? "ltr"} lang={content.lang ?? "en-us"} class="initial">
@@ -111,12 +111,12 @@ const currentFile = `src/pages${currentPage.replace(/\/$/, "")}.md`;
 				<LeftSidebar {currentPage} />
 			</aside>
 			<div id="grid-main">
-				<PageContent {content}>
+				<PageContent {content} {githubEditUrl}>
 					<slot />
 				</PageContent>
 			</div>
 			<aside id="grid-right" class="grid-sidebar" title="Table of Contents">
-				<RightSidebar {content} />
+				<RightSidebar {content} {githubEditUrl} />
 			</aside>
 		</main>
 	</body>
