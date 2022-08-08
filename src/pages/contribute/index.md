@@ -41,9 +41,19 @@ Once you've found the file you want to edit, open it up.
 ### Step 3: laying down your knowledge
 
 #### Edit the md file
-You can edit the pages using **Markdown**. If you do not know what markdown is, learn about it [here](https://www.markdownguide.org/cheat-sheet/) (its just for formatting).
+You can edit the pages using **Markdown**. If you do not know what markdown is, learn about it <a href="https://www.markdownguide.org/cheat-sheet/" target="_blank">here</a>.
 
 If you want to embed google slides, google docs, or need any help with editing the md file, contact <a href="https://discord.com/users/726608190023663666" target="_blank">Reet (Discord: DrIronfist#2548)</a>, <a href="https://discord.com/users/542163475380830208" target="_blank">Jadon (Discord: jadopotato#4717)</a>, or <a href="https://discord.com/users/770472531324698624" target="_blank">Abraham (Discord: Cesar_Oso#7229)</a>.
+
+Also here are two very useful tips for editing md files:
+- When adding a link, if you want the link to open in a new tab use <a href="https://www.w3schools.com/tags/tag_img.asp" target="_blank">this html tag</a> instead of traditional markdown:
+```md
+<a href="link/goes/here" target="_blank">link text goes here</a> <!--- Leave the target blank thingy the same --->
+```
+- and if you want to add an image you get a lot more formating options using <a href="https://www.w3schools.com/tags/tag_a.asp" target="_blank">this html tag</a> instead of traditional markdown:
+```md
+<img src="image-file-location/image.jpg" alt="alternative text">
+```
 
 #### Creating a New Page
 If you want to add something to the website that wouldn't fit in any of the already present pages, you can create a new page.
