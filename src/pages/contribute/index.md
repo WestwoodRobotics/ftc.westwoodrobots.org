@@ -27,7 +27,7 @@ I'll start this step with instructions on how to access a page for editing, then
 #### Open the project in Github
 On the [Westwood Robotics Page](https://github.com/WestwoodRobotics) in Github, navigate to the repositories tab and open the repository titled ```wwroboftc```.
 
-> if you have a preferred IDE, feel free to follow the next few steps on that after [cloning the project](/wwroboftc/programming/GitHub) to your computer.
+> if you have a preferred IDE, feel free to follow the next few steps using your IDE after [cloning the project](/wwroboftc/programming/GitHub) to your computer.
 
 Click on the ```pages``` folder.
 IMAGE
@@ -69,6 +69,7 @@ layout: ../../layouts/MainLayout.astro
 > in which cases you would have to change the number of ../s 
 
 After this you should be good to go adding [markdown to your page and editing the file](#edit-the-md-file)!
+> NOTE: **DO NOT** add anything between the sets of ```---```!!!
 
 
 
