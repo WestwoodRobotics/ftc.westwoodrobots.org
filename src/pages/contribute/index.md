@@ -76,6 +76,9 @@ If you have or want to gain programming experience, head over to the [issues](ht
 
 Even if you don't feel lie writing any code but feel strongly that there need to be changes to the site (not related to page content), then feel free to [add an issue](https://github.com/WestwoodRobotics/wwroboftc/issues) and mark it as an enhancement (for new feautres/styling) or bug (for problems). Remember, issues on github does not always mean problems.
 
+### Troubleshooting
+First try googling your issue. If that doesn't work, then contact [Reet (Discord: DrIronfist#2548)](https://discord.com/users/726608190023663666), [Jadon (Discord: jadopotato#4717)](https://discord.com/users/542163475380830208), or [Abraham (Discord: Cesar_Oso#7229)](https://discord.com/users/770472531324698624). 
+
 
 
 
