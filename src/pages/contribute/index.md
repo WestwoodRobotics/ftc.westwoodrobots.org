@@ -50,7 +50,8 @@ If you want to add something to the website that wouldn't fit in any of the alre
 Find a folder (programming, CAD, etc..) that best suites your new page. If you feel that there needs to be a new folder, then contact [Reet (Discord: DrIronfist#2548)](https://discord.com/users/726608190023663666), [Jadon (Discord: jadopotato#4717)](https://discord.com/users/542163475380830208), or [Abraham (Discord: Cesar_Oso#7229)](https://discord.com/users/770472531324698624). 
 
 ##### Create a file
-Create a new file 
+Create a new file that ends in ```.md```. Whatever you name this file will be the URL extension. For example, if you call your file ```programming-autons.md``` and put it in the ```programming``` folder, your page can be reached at westwoodrobotics.github.io/wwroboftc/programming/programming-autons. When you write your file name make sure that it has no spaces
+
 
 
 
