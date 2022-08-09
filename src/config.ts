@@ -59,6 +59,6 @@ export const SIDEBAR = {
 		{ text: 'Marketing', header: true, link: 'wwroboftc/marketing/'},
 		{ text: 'Help us find sponsors!', link: 'how-to-help-with-sponsors'},,
 
-		{ text: 'How to Contribute', header: true, link: 'contribute/' },
+		{ text: 'How to Contribute', header: true, link: 'wwroboftc/contribute/' },
 	],
 };
