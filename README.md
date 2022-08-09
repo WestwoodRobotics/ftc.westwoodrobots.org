@@ -1,3 +1,7 @@
+# HOW TO EDIT/CONTRIBUTE TO THE WEBSITE
+instructions here: https://westwoodrobotics.github.io/wwroboftc/contribute/
+must be a member of westwood robotics github organization to edit.
+
 ## Commands Cheatsheet
 
 All commands are run from the root of the project, from a terminal:
