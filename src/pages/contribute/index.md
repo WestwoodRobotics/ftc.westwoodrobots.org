@@ -81,6 +81,12 @@ layout: ../../layouts/MainLayout.astro
 After this you should be good to go adding [markdown to your page and editing the file](#edit-the-md-file)!
 > NOTE: **DO NOT** add anything between the sets of ```---```!!!
 
+##### Add your page to the sidebar
+If you feel your page will be accessed frequently then it might be a good idea to add your page to the left sidebar.
+To do so open [config.ts](https://github.com/WestwoodRobotics/wwroboftc/blob/main/src/config.ts) in the src folder and add the following line to a place in the file, which corresponsed to where you want your link to appear on the sidebar:
+```ts
+{ text: 'Text to be shown for the link', link: 'the link path minus the wwroboftc and main parent folder' },
+```
 ### Other Changes to the Site
 If you have or want to gain programming experience, head over to the <a href="https://github.com/WestwoodRobotics/wwroboftc/issues" target="_blank">issues</a> tab of this repository on github to find coding tasks that need working on.
 
