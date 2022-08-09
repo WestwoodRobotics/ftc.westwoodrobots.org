@@ -1,5 +1,5 @@
 ---
-title: The Maker Space
+title: The MakerSpace
 description: How to navigate, where everything is, and why you should keep it clean.
 layout: ../../layouts/MainLayout.astro
 ---

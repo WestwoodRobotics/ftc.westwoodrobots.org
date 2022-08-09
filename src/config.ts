@@ -40,14 +40,17 @@ export const SIDEBAR = {
 		{ text: 'How to touch grass', link: 'touching-grass'},
 		{ text: 'GitHub', link: 'GitHub'},
 
-		{ text: 'CAD', header: true, link: 'cad/' },		
+		{ text: 'CAD', header: true, link: 'cad/' },
+		{ text: 'How to set up Onshape', link:'settingUpOnshape'},		
 		{ text: 'OnShape Extensions', link: 'onshape-extensions' },
 		{ text: 'Getting started with Autodesk', link: 'autodesk'},
 		{ text: 'Advanced tips and tricks', link: 'tips-tricks'},
 
 		{ text: 'Hardware', header: true, link: 'hardware/'},
 		{ text: 'Getting to know your allen keys', link: 'allen-keys'},
-		{ text: 'The Maker Space', link: 'maker-space'},
+		{ text: 'The MakerSpace', link: 'maker-space'},
+		{ text: 'Tools', link: 'Tools'},
+		{ text: 'Common Parts', link:'commonParts'},
 
 		{ text: 'Outreach', header: true, link: 'outreach/'},
 		{ text: 'Top 10 outreach projects', link: 'top-10-outreach-projects'},
