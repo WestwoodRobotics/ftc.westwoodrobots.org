@@ -11,4 +11,4 @@ layout: ../../layouts/MainLayout.astro
 
 ## Design Stragety
 
-<iframe src="docs.google.com/presentation/d/1epslwzYfBgVUUtxpIi7_ZWjVF2WyXxeTGptT5dGnXhE/embed" frameborder="0" width="800"></iframe>
+<iframe src="https://docs.google.com/presentation/d/1epslwzYfBgVUUtxpIi7_ZWjVF2WyXxeTGptT5dGnXhE/embed" frameborder="0" width="800"></iframe>

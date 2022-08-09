@@ -41,7 +41,8 @@ export const SIDEBAR = {
 		{ text: 'GitHub', link: 'GitHub'},
 
 		{ text: 'CAD', header: true, link: 'wwroboftc/cad/' },
-		{ text: 'How to set up Onshape', link:'settingUpOnshape'},		
+		{ text: 'How to set up Onshape', link:'settingUpOnshape'},
+		{ text: 'Unit 1', link: 'Unit_1'},
 		{ text: 'OnShape Extensions', link: 'onshape-extensions' },
 		{ text: 'Getting started with Autodesk', link: 'autodesk'},
 		{ text: 'Advanced tips and tricks', link: 'tips-tricks'},
