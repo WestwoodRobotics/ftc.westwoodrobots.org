@@ -380,3 +380,24 @@ h2.heading {
 :target {
 	scroll-margin: calc(var(--theme-sidebar-offset, 5rem) + 2rem) 0 2rem;
 }
+/* width */
+::-webkit-scrollbar {
+	width: 7px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+	background: var(--theme-bg);
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+	background: rgb(233, 111, 41);
+	border-radius: 10px;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+	background: rgb(204, 117, 35);
+}
+

@@ -78,6 +78,7 @@
 	--theme-navbar-height: 6rem;
 	--theme-selection-color: hsla(var(--color-orange), 1);
 	--theme-selection-bg: hsla(var(--color-orange), var(--theme-accent-opacity));
+	--theme-scrollbar-thumb: hsla(var(--color-orange-200), 1);
 }
 
 body {
