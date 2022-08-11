@@ -392,12 +392,12 @@ h2.heading {
 
 /* Handle */
 ::-webkit-scrollbar-thumb {
-	background: rgb(233, 111, 41);
+	background: rgba(233, 111, 41, 0.7);
 	border-radius: 10px;
 }
 
 /* Handle on hover */
 ::-webkit-scrollbar-thumb:hover {
-	background: rgb(204, 117, 35);
+	background: rgba(204, 117, 35, 0.7);
 }
 
