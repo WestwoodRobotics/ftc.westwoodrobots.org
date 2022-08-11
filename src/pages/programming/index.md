@@ -15,6 +15,6 @@ int count = 0;
 
 ## Chad Coding stuffs:
 
-- [Java Explained](./java)
-- [GitHub explained](./GitHub)
-- [Teleop explained](./teleop)
+- [Java Explained](./programming/java)
+- [GitHub explained](./programming/GitHub)
+- [Teleop explained](./programming/teleop)

@@ -745,3 +745,7 @@ student 2 joins the program
 ## Methods
 
 ## Object Oriented Programming
+
+## Extra Resources
+- [gm0 link on how java is used in FTC](https://gm0.org/en/latest/docs/software/getting-started/fundamental-concepts.html)
+- [W3Schools](https://www.w3schools.com/java/)

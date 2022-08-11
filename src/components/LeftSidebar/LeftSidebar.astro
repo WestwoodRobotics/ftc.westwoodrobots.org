@@ -37,7 +37,7 @@ console.log(Astro.site.pathname)
 									href={`${Astro.site.pathname}${section.link + child.link}`}
 									aria-current={`${currentPageMatch === child.link ? "page" : "false"}`}
 								>
-									- {child.text}
+									• {child.text}
 								</a>
 							</li>
 						))}
