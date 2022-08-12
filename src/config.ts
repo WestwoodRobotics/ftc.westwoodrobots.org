@@ -55,6 +55,7 @@ export const SIDEBAR = {
 
 		{ text: 'Outreach', header: true, link: 'wwroboftc/outreach/'},
 		{ text: 'Top 10 outreach projects', link: 'top-10-outreach-projects'},
+		{ text: 'Awards', link: 'awards'},
 		
 		{ text: 'Marketing', header: true, link: 'wwroboftc/marketing/'},
 		{ text: 'Help us find sponsors!', link: 'how-to-help-with-sponsors'},,
