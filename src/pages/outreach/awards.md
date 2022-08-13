@@ -5,13 +5,13 @@ layout: ../../layouts/MainLayout.astro
 ---
 
 ## General Award Advice
-Coming soon!
+Most likely your team's portfolio will fulfill many of these rewards requirements. The thing is, many other teams will also fulfill these requirements. This means that in order to get an award your team will have to also fulfill the recommendations and go above and beyond the requirements. Its also a good idea to decide which award(s) your team is going for early on in the season so that you have adequate time to work on it.
  
 ### ENs and Portfolios
-Coming soon!
+ENs (engineering notebooks) are recommended for all teams to keep track of things that can be put in your portfolio and are also submitted to help with teams' chances of getting awards. ENs are also a great way to keep track of your team's progress and to help you with your next steps. It's important to know though that ENs are not portfolios.
 
 ### Presentations
-Coming soon!
+Another critical step in obtaining an award is the presentation to judges. Towards the end of the season, volunteer judges will hear out your team's presentation (you should be presenting a slideshow that is separate from your portfolio or EN) and evaluate if your team should receive an award. Be sure to practice with your team beforehand and be ready to answer questions.
 
 ## The Awards
 
@@ -28,7 +28,7 @@ The Inspire Award is given to teams that have generally good portfolios and *ins
 - Inspires Judges to ask about specific information
 
 ### Think Award
-The Think Award can be earned by showing a deep understanding of the underlying science, mathematics, and game strategies and being knowledgable about general engineering information.
+The Think Award can be earned by showing a deep understanding of the underlying science, mathematics, and game strategies and being knowledgeable about general engineering information.
 
 #### Requirements:
 - Portfolio has engineering content
@@ -40,7 +40,7 @@ The Think Award can be earned by showing a deep understanding of the underlying 
 - Includes plans to develop skills among team members
 
 ### Connect Award
-This award is earned by displaying a strong show of aquiring new skills, networking, and outreach. 
+This award is earned by displaying a strong show of acquiring new skills, networking, and outreach. 
 
 #### Requirements:
 - Portfolio contains team plan (should be connected to outreach)
@@ -66,12 +66,12 @@ Given to a team that exhibits excellent use of sensors and software to increase 
 #### Requirements:
 - Must submit an application for this award
     - Instructions for application [here (page 71)](https://www.firstinspires.org/sites/default/files/uploads/resource_library/ftc/judge-and-judge-advisor-manual.pdf)
-- Engineering portfolio documentss control components
+- Engineering portfolio documents control components
     - and show how they enhance the robots functionality
 
 #### Recommendations:
-- Advanced softare techniques and algorithms
-- Portfolio documentss lessons learned related to control components
+- Advanced software techniques and algorithms
+- Portfolio documents lessons learned related to control components
 
 ### Motivate Award
 Given to a team who motivates others to join *First* and echos *First's* philosophy.
@@ -101,8 +101,9 @@ The Design Award is presented to teams that incorporate industrial design elemen
 - Engineering Portfolio must contain CAD images or Robot drawings of components or the entire robot
 
 #### Recommendations:
-- Design is distinguished from others through asthetics or function
+- Design is distinguished from others through aesthetics or function
 - Design is consistent with team plan
-- Isnpires judges to ask about specific components
+- Inspires judges to ask about specific components
 
-
+## Sources:
+All information on this page was taken from [this year's game manual (starts page 48)](https://www.firstinspires.org/sites/default/files/uploads/resource_library/ftc/game-manual-part-1-traditional-events.pdf) and [FTC's official awards description page](https://www.firstinspires.org/sites/default/files/uploads/resource_library/ftc/award-descriptions.pdf) and [the appendixes from the judge's manual](https://www.firstinspires.org/sites/default/files/uploads/resource_library/ftc/judge-and-judge-advisor-manual.pdf).
