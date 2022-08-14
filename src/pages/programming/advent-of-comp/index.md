@@ -13,4 +13,8 @@ Every day in the week leading up to comp there will be a new coding challenge re
 
 ### [Day 1](/wwroboftc/programming/advent-of-comp/challenges#day1)
 
+### [Day 2](/wwroboftc/programming/advent-of-comp/challenges#day2)
+
+### [Day 3](/wwroboftc/programming/advent-of-comp/challenges#day3)
+
 

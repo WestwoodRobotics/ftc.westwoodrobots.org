@@ -16,3 +16,11 @@ the actual code will be submitted to. Email notifies a consultant about the subm
 ### Day 1
 This puzzle has not been released yet.
 
+### Day 2
+This puzzle has not been released yet.
+
+### Day 3
+This puzzle has not been released yet.
+
+
+
