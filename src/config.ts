@@ -35,6 +35,7 @@ export const SIDEBAR = {
 	en: [
 
 		{ text: 'Programming', header: true, link: 'wwroboftc/programming/' },
+		{ text: 'ADVENT OF COMP', link: 'advent-of-kickoff/' },
 		{ text: 'Coding Teleops', link: 'teleop' },
 		{ text: 'Java', link: 'java' },
 		{ text: 'How to touch grass', link: 'touching-grass'},

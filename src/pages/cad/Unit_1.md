@@ -11,12 +11,6 @@ layout: ../../layouts/MainLayout.astro
 
 <h2> Quiz 1</h2>
 <h5>  What is the second step of the engineering design process </h5>
-<form>
-  <label for="fname">First name:</label><br>
-  <input type="text" id="fname" name="fname"><br>
-  <label for="lname">Last name:</label><br>
-  <input type="text" id="lname" name="lname">
-</form>
 <h5>  If a prototype has failed testing what is the next step </h5>
 <h5>  What tools could we use to design our robots    </h5>
 
