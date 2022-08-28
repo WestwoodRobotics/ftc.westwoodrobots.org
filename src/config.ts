@@ -53,6 +53,7 @@ export const SIDEBAR = {
 
 		{ text: 'Hardware', header: true, link: 'wwroboftc/hardware/'},
 		{ text: 'Motor Assembly', link: 'MotorAssembly'},
+		{ text: 'Shaft Assembly', link: 'ShaftAssembly'},
 		{ text: 'Getting to know your allen keys', link: 'allen-keys'},
 		{ text: 'The MakerSpace', link: 'maker-space'},
 		{ text: 'Tools', link: 'Tools'},
