@@ -35,6 +35,7 @@ export const SIDEBAR = {
 	en: [
 
 		{ text: 'Programming', header: true, link: 'wwroboftc/programming/' },
+		{ text: 'ADVENT OF COMP', link: 'advent-of-kickoff/' },
 		{ text: 'Coding Teleops', link: 'teleop' },
 		{ text: 'Java', link: 'java' },
 		{ text: 'FTC Java', link: 'ftcJava'},
@@ -43,12 +44,17 @@ export const SIDEBAR = {
 
 		{ text: 'CAD', header: true, link: 'wwroboftc/cad/' },
 		{ text: 'How to set up Onshape', link:'settingUpOnshape'},
-		{ text: 'Unit 1', link: 'Unit_1'},
+		{ text: 'Unit 1: Design Basics', link: 'Unit_1'},
+		{ text: 'Unit 2: FTC Fundamentals', link: 'Unit_2'},
+		{ text: 'Unit 3: Onshape Tutorials', link: 'Unit_3'},
+		{ text: 'CAD Workshop', link: 'Workshop'},
 		{ text: 'OnShape Extensions', link: 'onshape-extensions' },
 		{ text: 'Getting started with Autodesk', link: 'autodesk'},
 		{ text: 'Advanced tips and tricks', link: 'tips-tricks'},
 
 		{ text: 'Hardware', header: true, link: 'wwroboftc/hardware/'},
+		{ text: 'Motor Assembly', link: 'MotorAssembly'},
+		{ text: 'Shaft Assembly', link: 'ShaftAssembly'},
 		{ text: 'Getting to know your allen keys', link: 'allen-keys'},
 		{ text: 'The MakerSpace', link: 'maker-space'},
 		{ text: 'Tools', link: 'Tools'},
@@ -56,6 +62,7 @@ export const SIDEBAR = {
 
 		{ text: 'Outreach', header: true, link: 'wwroboftc/outreach/'},
 		{ text: 'Top 10 outreach projects', link: 'top-10-outreach-projects'},
+		{ text: 'Awards', link: 'awards'},
 		
 		{ text: 'Marketing', header: true, link: 'wwroboftc/marketing/'},
 		{ text: 'Help us find sponsors!', link: 'how-to-help-with-sponsors'},,
