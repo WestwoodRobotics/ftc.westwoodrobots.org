@@ -29,9 +29,10 @@ layout: ../../layouts/MainLayout.astro
  4. The entire process should take about a week to design a full chassis. After you are done let a Consultant know and move on to Step 2.
 
   <h5> *Hint here are links to some example robots:    
+  <br></br>
            
- <iframe width="420" height="345" src="https://www.youtube.com/watch?v=0wyBlRLxczk"> </iframe>
- <iframe width="420 height="345" src="https://www.youtube.com/watch?v=i1zqBJrLl-0">  </iframe>
+ <iframe width="420" height="345" src="https://www.youtube.com/embed/0wyBlRLxczk"> </iframe>
+ <iframe width="420 height="345" src="https://www.youtube.com/embed/i1zqBJrLl-0">  </iframe>
 
 <br></br>
 <br></br>
