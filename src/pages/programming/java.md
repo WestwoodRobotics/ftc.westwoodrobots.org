@@ -33,7 +33,7 @@ System.out.println(num1);
 
 #### Primitive Variable Types:
 
-| Type    | Bytes | Range                                                   |
+| Type    | Bytes | Range/Possible Values                                   |
 | ------- | ----- | ------------------------------------------------------- |
 | byte    | 1     | [-128, 127]                                             |
 | short   | 2     | [-32K, 32K]                                             |
@@ -740,7 +740,107 @@ student 2 joins the program
 
 ## Loops
 
+### Basic Loops
+
+#### Why Loops?
+
+##### Loops are extremely helpfull having to perform repeated tasks. Later on loops will become extremely helpful when dealing with list.
+
+##### Here lets make up a scenario, imagen we want to print 5 different points in a slope. To perform the actions it takes to get to the next point in the slope we can use a loop and with this loop we can get many more of the following numbers. For it make more sense lets look at the example.
+
+#### Example:
+
+```java
+int x = 0;
+int y = 0;
+// slope with be 3/2
+
+// lets break appart this confusing syntax
+/*
+The first part int curIteration = 0;
+This part is saying, I am going to be using the the variable
+curIteration to track how many iterations I've done, and I
+will also be starting at 0.
+
+The second part curIteration < 10;
+This part is saying, I am going to keep looping while curIteration
+is less than 10.
+
+The third part curIteration++
+Before I explain quick note, integer++ is just a shorter way of
+saying integer+=1, in fact I could change it to that and it would
+still work the same. This means I could say curIteration+=2 to
+go by twos instead of ones.
+This part is saying, after every loop I will add 1 to curIteration.
+*/
+for (int curIteration = 0; curIteration < 10; curIteration++) {
+    System.out.println("x-cord "+curIteration+" is "+x);
+    System.out.println("y-cord "+curIteration+" is "+y);
+    x += 2;
+    y += 3;
+}
+
+System.out.println("----------Spacer----------");
+
+x = 0;
+y = 0;
+// more examples
+/*
+In this one we start curIteration a 1 instead of 0
+We also loop while curIteration is less than 11
+And lastly we add 2 after every loop instead of 1
+*/
+for (int curIteration = 1; curIteration < 11; curIteration+=2) {
+    x = 2*curIteration;
+    y = 3*curIteration;
+    System.out.println("x-cord "+curIteration+" is "+x);
+    System.out.println("y-cord "+curIteration+" is "+y);
+}
+```
+
+##### Prints:
+
+```
+x-cord 0 is 0
+y-cord 0 is 0
+x-cord 1 is 2
+y-cord 1 is 3
+x-cord 2 is 4
+y-cord 2 is 6
+x-cord 3 is 6
+y-cord 3 is 9
+x-cord 4 is 8
+y-cord 4 is 12
+x-cord 5 is 10
+y-cord 5 is 15
+x-cord 6 is 12
+y-cord 6 is 18
+x-cord 7 is 14
+y-cord 7 is 21
+x-cord 8 is 16
+y-cord 8 is 24
+x-cord 9 is 18
+y-cord 9 is 27
+----------Spacer----------
+x-cord 1 is 2
+y-cord 1 is 3
+x-cord 3 is 6
+y-cord 3 is 9
+x-cord 5 is 10
+y-cord 5 is 15
+x-cord 7 is 14
+y-cord 7 is 21
+x-cord 9 is 18
+y-cord 9 is 27
+```
+
 ## Arrays
+
+### Why Arrays?
+
+#### Arrays allow us to hold info in a managable way. Here lets imagen we where given 31 true and false values, and we wanted to find out wether there where more true's or false's. Instead of having to make 30 variables, which we cannot iterate through, we can instead
+
+### Example: Lets image we want to find the biggest number
 
 ## Methods
 

@@ -38,6 +38,7 @@ export const SIDEBAR = {
 		{ text: 'GitHub(DO FIRST)', link: 'GitHub'},
 		{ text: 'Coding Teleops', link: 'teleop' },
 		{ text: 'Java', link: 'java' },
+		{ text: 'FTC Java', link: 'ftcJava'},
 		{ text: 'How to touch grass', link: 'touching-grass'},
 		
 
