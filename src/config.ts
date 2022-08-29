@@ -44,6 +44,7 @@ export const SIDEBAR = {
 
 		{ text: 'CAD', header: true, link: 'wwroboftc/cad/' },
 		{ text: 'How to set up Onshape(DO FIRST)', link:'settingUpOnshape'},
+		{ text: 'CAD Practice', link: "cadPractice"},
 		{ text: 'Unit 1: Design Basics', link: 'Unit_1'},
 		{ text: 'Unit 2: FTC Fundamentals', link: 'Unit_2'},
 		{ text: 'Unit 3: Onshape Tutorials', link: 'Unit_3'},
