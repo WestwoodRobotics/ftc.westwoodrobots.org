@@ -40,6 +40,7 @@ export const SIDEBAR = {
 		{ text: 'Java', link: 'java' },
 		{ text: 'FTC Java', link: 'ftcJava'},
 		{ text: 'How to touch grass', link: 'touching-grass'},
+		{ text: 'Week One Motor Demo', link: 'week-one-demo'},
 		
 
 		{ text: 'CAD', header: true, link: 'wwroboftc/cad/' },
