@@ -16,5 +16,6 @@ int count = 0;
 ## Chad Coding stuffs:
 
 - [Java Explained](./java)
+- [FTC Java Explained](./ftcJava)
 - [GitHub explained](./GitHub)
 - [Teleop explained](./teleop)

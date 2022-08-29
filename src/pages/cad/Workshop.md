@@ -1,3 +1,9 @@
+---
+title: CAD Workshop
+description: Try out CADding a basic FTC Robot for the Rover Ruckus FTC Challenge.
+layout: ../../layouts/MainLayout.astro
+---
+
 #  Cad Workshop
 #### Description: Over the first two weeks, you individually will be designing a robot from a previous FTC game called Rover Ruckus. Each step is listed below on what each assembly should including the drivetrain and main mechanism
 
@@ -23,9 +29,10 @@
  4. The entire process should take about a week to design a full chassis. After you are done let a Consultant know and move on to Step 2.
 
   <h5> *Hint here are links to some example robots:    
+  <br></br>
            
- <h6>https://www.youtube.com/watch?v=0wyBlRLxczk </h6>
- <h6> https://www.youtube.com/watch?v=i1zqBJrLl-0 </h6>
+ <iframe width="420" height="345" src="https://www.youtube.com/embed/0wyBlRLxczk"> </iframe>
+ <iframe width="420 height="345" src="https://www.youtube.com/embed/i1zqBJrLl-0">  </iframe>
 
 <br></br>
 <br></br>
