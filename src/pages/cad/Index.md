@@ -1,13 +1,13 @@
 ---
-title: wwCAD
-description: Westwood FTC CAD
+title: Westwood FTC CADing resources
+description: Everything you need to master CAD
 layout: ../../layouts/MainLayout.astro
 ---
 
-# Welcome to Westwood FTC's official CAD docs!
+## Supplemental Mastery Unit Slides:
+- [Unit 1](./Unit_1.md)
+- [Unit 2](./Unit_2.md)
+- [Unit 3](./Unit_3.md)
 
-- links 
-- links
-- links
-
-## test
+## Rover Ruckus Workshop Activity:
+- [Workshop](./Workshop.md)
