@@ -10,7 +10,9 @@ Programming is totally objectivveely without a doubt the bestest most coolest su
 
 # Start Here
 https://replit.com/@abrahamlira/FTCChallenges
-Fork this replit and go along
+Fork this replit and try out the OpMode Challenges
+
+To test out your code on the robot connect to the robot wifi and go to http://192.168.43.1:8080/ and paste your code.
 
 ## Lessons:
 - [Java Explained](./java)
