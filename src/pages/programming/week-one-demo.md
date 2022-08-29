@@ -4,6 +4,7 @@ description: About teleoperative programs in FTC
 layout: ../../layouts/MainLayout.astro
 ---
 
+```java
 package org.firstinspires.ftc.teamcode;
 
 import com.qualcomm.robotcore.eventloop.opmode.LinearOpMode;
@@ -35,3 +36,4 @@ public class FirstWeek extends LinearOpMode {
     }
 
 }
+```
