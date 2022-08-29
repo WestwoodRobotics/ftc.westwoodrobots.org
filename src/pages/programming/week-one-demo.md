@@ -1,5 +1,7 @@
 ---
-
+title: Week One Demo
+description: About teleoperative programs in FTC
+layout: ../../layouts/MainLayout.astro
 ---
 
 package org.firstinspires.ftc.teamcode;
