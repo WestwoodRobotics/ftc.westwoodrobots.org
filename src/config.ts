@@ -35,14 +35,14 @@ export const SIDEBAR = {
 	en: [
 
 		{ text: 'Programming', header: true, link: 'wwroboftc/programming/' },
-		{ text: 'ADVENT OF COMP', link: 'advent-of-kickoff/' },
+		{ text: 'GitHub(DO FIRST)', link: 'GitHub'},
 		{ text: 'Coding Teleops', link: 'teleop' },
 		{ text: 'Java', link: 'java' },
 		{ text: 'How to touch grass', link: 'touching-grass'},
-		{ text: 'GitHub', link: 'GitHub'},
+		
 
 		{ text: 'CAD', header: true, link: 'wwroboftc/cad/' },
-		{ text: 'How to set up Onshape', link:'settingUpOnshape'},
+		{ text: 'How to set up Onshape(DO FIRST)', link:'settingUpOnshape'},
 		{ text: 'Unit 1: Design Basics', link: 'Unit_1'},
 		{ text: 'Unit 2: FTC Fundamentals', link: 'Unit_2'},
 		{ text: 'Unit 3: Onshape Tutorials', link: 'Unit_3'},
