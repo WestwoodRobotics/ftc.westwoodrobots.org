@@ -13,6 +13,7 @@ layout: ../../layouts/MainLayout.astro
 - 5mm X 75mm Hex Shaft
 - 10 tooth #25 Sprocket
 - 3mm spacer 
+- Necessary Tools(Shaft Collar Allen Key)
 
 ## Goals
 Create a shaft assembly for experience and to create a basic understanding of shaft assemblies.

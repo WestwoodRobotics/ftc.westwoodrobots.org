@@ -14,6 +14,7 @@ layout: ../../layouts/MainLayout.astro
 - 3:1 Gearbox Cartridge (0-3)
 - 4:1 Gearbox Cartridge (0-3)
 - 5:1 Gearbox Cartridge (0-3)
+- Tools needed(m3 allen hex key)
 
 ## Goal:
  Assemble a motor with differing gear ratios to create stronger motor output force(torque)
