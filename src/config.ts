@@ -36,7 +36,8 @@ export const SIDEBAR = {
 
 		{ text: 'Programming', header: true, link: 'wwroboftc/programming/' },
 		{ text: 'GitHub(DO FIRST)', link: 'GitHub'},
-		{ text: 'Coding Teleops', link: 'teleop' },
+		{ text: 'Introduction to FTC Programming', link: 'introduction'},
+		{ text: 'Coding Teleop', link: 'teleop' },
 		{ text: 'Java', link: 'java' },
 		{ text: 'FTC Java', link: 'ftcJava'},
 		{ text: 'How to touch grass', link: 'touching-grass'},
