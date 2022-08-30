@@ -28,3 +28,5 @@ To test out your code on the robot connect to the robot wifi and go to http://19
 - [gm0](https://gm0.org/)
 - [FTC Discord](https://discord.gg/ftc)
 - [w3 schools java](https://www.w3schools.com/java/default.asp)
+
+## [Android Studio Download](https://drive.google.com/drive/folders/1RUhp_dLPZ5TfyG8NW9L8PF37566m08WO?usp=sharing)
