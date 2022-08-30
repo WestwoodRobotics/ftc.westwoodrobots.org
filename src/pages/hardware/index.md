@@ -14,3 +14,5 @@ These activities are super helpful to gain valuable practice with the tools and 
 - [Chain Tool Activity](./chain-tool-activity)
 - [Motor Assembly Activity](./MotorAssembly)
 - [Shaft Assembly Activity](./ShaftAssembly)
+- [Preloaded Brackets](https://docs.revrobotics.com/duo-build/building-techniques/tips-and-tricks-for-building#pre-load-brackets-with-screws)
+- [Preloaded bearing blocks(pg 25)](https://www.revrobotics.com/content/docs/2021-2022%20Starter%20Bot-BG.pdf)
