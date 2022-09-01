@@ -23,14 +23,14 @@ While FTC teams typically are composed of 10-15 members, our FRC team has member
 ### Advancement
 ![event-advancement](https://user-images.githubusercontent.com/91638482/187924536-cacd9397-1d87-4f07-b70f-b749a0443b01.png)
 
-FTC Teams can advance through scoring or through [awards](../../outreach/awards).
+FTC Teams can advance through scoring or through [awards](../../wwroboftc/outreach/awards).
 
 ### What to Bring
 On the day before competition, make sure that you have a fully charged driver hub and battery. We will transport your teams storage box, so make sure that you've loaded it with everything you need. 
 
 ### What to Expect
 On the day of competition, there will be lots of things to pay attention to. First, make sure your team knows exactly when they are competing. You also might want to download [the orange alliance] app to view live rankings and schedules. 
-Before the competition you should also do a quick check to make sure your robot complies with the [robot inspection checklist](https://www.firstinspires.org/sites/default/files/uploads/resource_library/ftc/robot-inspection-checklist.pdf).
+Before the competition you should also do a quick check to make sure your robot complies with the <a href="https://www.firstinspires.org/sites/default/files/uploads/resource_library/ftc/robot-inspection-checklist.pdf" target="_blank">robot inspection checklist</a>.
 
 <hr>
 
