@@ -43,6 +43,7 @@ export const SIDEBAR = {
 		{ text: 'How to touch grass', link: 'touching-grass'},
 		{ text: 'Week One Motor Demo', link: 'week-one-demo'},
 		{ text: 'Android Studio', link: './android-studio' },
+		{ text: 'testin', link: 'test' },
 		
 
 		{ text: 'CAD', header: true, link: 'wwroboftc/cad/' },
