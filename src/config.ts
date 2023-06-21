@@ -36,13 +36,12 @@ export const SIDEBAR = {
 
 		{ text: 'Programming', header: true, link: 'wwroboftc/programming/' },
 		{ text: 'GitHub(DO FIRST)', link: 'GitHub'},
-		{ text: 'Introduction to FTC Programming', link: 'introduction'},
-		{ text: 'Coding Teleop', link: 'teleop' },
 		{ text: 'Java', link: 'java' },
+		{ text: 'Introduction to FTC Programming', link: 'introduction'},
 		{ text: 'FTC Java', link: 'ftcJava'},
-		{ text: 'How to touch grass', link: 'touching-grass'},
 		{ text: 'Android Studio', link: './android-studio' },
-		{ text: 'testin', link: 'test' },
+		{ text: 'Coding Teleop', link: 'teleop' },
+		{ text: 'How to touch grass', link: 'touching-grass'},
 		
 
 		{ text: 'CAD', header: true, link: 'wwroboftc/cad/' },
