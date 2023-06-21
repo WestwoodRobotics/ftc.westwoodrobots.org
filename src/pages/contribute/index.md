@@ -95,6 +95,7 @@ Even if you don't feel like writing any code but feel strongly that there need t
 ## Troubleshooting
 First try googling your issue. If that doesn't work, then contact <a href="https://discord.com/users/726608190023663666" target="_blank">Reet (Discord: DrIronfist#2548)</a>, <a href="https://discord.com/users/542163475380830208" target="_blank">Jadon (Discord: jadopotato#4717)</a>, or <a href="https://discord.com/users/770472531324698624" target="_blank">Abraham (Discord: Cesar_Oso#7229)</a>. 
 
-
+## Learn Markdown
+Try using this link totally not a [rickroll](https://commonmark.org/help/tutorial/)
 
 
