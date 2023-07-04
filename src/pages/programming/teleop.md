@@ -20,7 +20,7 @@ Let's make it so that the left joystick on the controller controls the strafing.
 
 #### Code
 Each wheel has a motor that can spin 2 different ways. To simplify, we can say that a power of 1 makes it go forward and a power of -1 makes it go backward. Also, we will be calling each motor frontLeft, frontRight, backLeft, and backRight.
-```
+```java
 //This gives a power of 1 for each motor, making each wheel go forward
 
 frontLeft.setPower(1);
@@ -29,6 +29,26 @@ backLeft.setPower(1);
 backRight.setPower(1);
 
 //This would make the robot move forward, as every wheel is going forward
+```
+
+Now, our problem is that we need to set each motor's power differently based on the x and y values of the left and right joysticks of the controller. We can make it easier to implement by going one motor at a time. 
+
+Let's start with the frontLeft motor. If the left joystick was moved forward, which direction would it need to spin? (Hint: Check the diagram for the mecanum wheel directions)
+
+```java
+//The frontLeft motor would need to spin forward
+
+frontLeft.setPower(gamepad1.left_stick_y)
+
+//This sets the power of the motor to the vertical component of the left joystick 
+```
+
+We also need to get the inputs from the left stick's horizontal component, or x value, and the right stick's y value. You can do the same method of thinking "if the joystick is moved this way, which direction would the wheel turn?"
+
+In the end, you should have this code:
+
+```java
+frontLeft.setPower(gamepad1.left_stick_y + gamepad1.left_stick_x + gamepad1.right_stick_x);
 ```
 ## Tank Drive
 
