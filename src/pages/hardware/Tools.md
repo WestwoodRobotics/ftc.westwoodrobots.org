@@ -1,5 +1,5 @@
 ---
-title: Tool
+title: Tools
 description: Description of common tools that we use
 layout: ../../layouts/MainLayout.astro
 ---
