@@ -6,7 +6,7 @@ export const SITE = {
 
 export const OPEN_GRAPH = {
 	image: {
-		src: 'https://github.com/WestwoodRobotics/wwroboftc/blob/main/src/wwrobologo.png?raw=true',
+		src: 'https://github.com/WestwoodRobotics/blob/main/src/wwrobologo.png?raw=true',
 		alt:
 			'The epic robot that is Westwood Robotics, the Westwood Robotics FTC team, and the Westwood Robotics FTC team logo.',
 	},
@@ -18,7 +18,7 @@ export const KNOWN_LANGUAGES = {
 };
 
 // Uncomment this to add an "Edit this page" button to every page of documentation.
-export const GITHUB_EDIT_URL = `https://github.com/WestwoodRobotics/wwroboftc/`;
+export const GITHUB_EDIT_URL = `https://github.com/WestwoodRobotics/`;
 
 // Uncomment this to add an "Join our Community" button to every page of documentation.
 // export const COMMUNITY_INVITE_URL = `https://discord.com/channels/689167175214301254/848353976659214366`;
@@ -34,7 +34,7 @@ export const ALGOLIA = {
 export const SIDEBAR = {
 	en: [
 
-		{ text: 'Programming', header: true, link: 'wwroboftc/programming/' },
+		{ text: 'Programming', header: true, link: 'programming/' },
 		{ text: 'GitHub(DO FIRST)', link: 'GitHub'},
 		{ text: 'Java', link: 'java' },
 		{ text: 'Introduction to FTC Programming', link: 'introduction'},
@@ -44,7 +44,7 @@ export const SIDEBAR = {
 		{ text: 'How to touch grass', link: 'touching-grass'},
 		
 
-		{ text: 'CAD', header: true, link: 'wwroboftc/cad/' },
+		{ text: 'CAD', header: true, link: 'cad/' },
 		{ text: 'Lesson 1', link:'Lesson-1'},
 		{ text: 'How to set up Onshape(DO FIRST)', link:'settingUpOnshape'},
 		{ text: 'CAD Practice', link: "cadPractice"},
@@ -56,7 +56,7 @@ export const SIDEBAR = {
 		{ text: 'Getting started with Autodesk', link: 'autodesk'},
 		{ text: 'Advanced tips and tricks', link: 'tips-tricks'},
 
-		{ text: 'Hardware', header: true, link: 'wwroboftc/hardware/'},
+		{ text: 'Hardware', header: true, link: 'hardware/'},
 		{ text: 'Motor Assembly', link: 'MotorAssembly'},
 		{ text: 'Shaft Assembly', link: 'ShaftAssembly'},
 		{ text: 'Servo Claw Activity', link: 'ServoClawActivity'},
@@ -65,13 +65,13 @@ export const SIDEBAR = {
 		{ text: 'Tools', link: 'Tools'},
 		{ text: 'Common Parts', link:'commonParts'},
 
-		{ text: 'Outreach', header: true, link: 'wwroboftc/outreach/'},
+		{ text: 'Outreach', header: true, link: 'outreach/'},
 		{ text: 'Top 10 outreach projects', link: 'top-10-outreach-projects'},
 		{ text: 'Awards', link: 'awards'},
 		
-		{ text: 'Marketing', header: true, link: 'wwroboftc/marketing/'},
+		{ text: 'Marketing', header: true, link: 'marketing/'},
 		{ text: 'Help us find sponsors!', link: 'how-to-help-with-sponsors'},,
 
-		{ text: 'How to Contribute', header: true, link: 'wwroboftc/contribute/' },
+		{ text: 'How to Contribute', header: true, link: 'contribute/' },
 	],
 };
