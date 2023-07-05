@@ -11,6 +11,6 @@ export default defineConfig({
 		react(),
 	],
 	site: `https://WestwoodRobotics.github.io`,//TODO: change to our link
-	base: `/wwroboftc`
+	base: `/`
 	
 });
