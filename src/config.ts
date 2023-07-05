@@ -18,7 +18,7 @@ export const KNOWN_LANGUAGES = {
 };
 
 // Uncomment this to add an "Edit this page" button to every page of documentation.
-export const GITHUB_EDIT_URL = `https://github.com/WestwoodRobotics/`;
+export const GITHUB_EDIT_URL = `https://github.com/WestwoodRobotics/wwroboftc`;
 
 // Uncomment this to add an "Join our Community" button to every page of documentation.
 // export const COMMUNITY_INVITE_URL = `https://discord.com/channels/689167175214301254/848353976659214366`;
