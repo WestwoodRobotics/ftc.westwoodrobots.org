@@ -1,5 +1,5 @@
 # HOW TO EDIT/CONTRIBUTE TO THE WEBSITE
-instructions here: https://westwoodrobotics.github.io/wwroboftc/contribute/
+instructions here: https://westwoodftc.com/contribute
 must be a member of westwood robotics github organization to edit.
 
 ## Commands Cheatsheet
