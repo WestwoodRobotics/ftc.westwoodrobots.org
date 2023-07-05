@@ -10,7 +10,7 @@ export default defineConfig({
 		// Enable React for the Algolia search component.
 		react(),
 	],
-	site: `https://WestwoodRobotics.github.io`,//TODO: change to our link
+	site: `https://westwoodftc.com`,//TODO: change to our link
 	base: `/`
 	
 });
