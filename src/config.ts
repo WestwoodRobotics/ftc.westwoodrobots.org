@@ -35,13 +35,6 @@ export const SIDEBAR = {
 	en: [
 		
 		{ text: 'Programming', header: true, link: 'programming/' },
-		//archived pages
-		// { text: 'GitHub(DO FIRST)', link: 'GitHub'},
-		// { text: 'Java', link: 'java' },
-		// { text: 'Introduction to FTC Programming', link: 'intro'},
-		// { text: 'FTC Java', link: 'ftcJava'},
-		// { text: 'Android Studio', link: './android-studio' },
-		// { text: 'Coding Teleop', link: 'teleop' },
 		{ text: 'How to touch grass', link: 'touching-grass'},
 		
 
