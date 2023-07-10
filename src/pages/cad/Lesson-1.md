@@ -17,7 +17,7 @@ FTC robots incorporate many different mechanisms which allow the robot to functi
 A Mecanum Drivetrain involves four mecanum wheels powered individually by 4 motors. A mecanum wheel is a special type of wheel that has multiple nonpowered rollers mounted at a 45-degree angle on the wheel. This allows the robot to move side to side (or strafe), which is much more efficient than turning and then moving forward. 
 
 ### Four-Wheel Drive
-Four-wheel drive consists of 4 powered wheels, 2 omni wheels in the front, and 2 traction wheels in the back. This allows for easy turning, as well as enough traction to drive around the field successfully. Four-wheel drive is more common for beginner teams, as it is easier to understand than mecanum drive, and is easier to code from the programming side.
+Four-wheel drive consists of 4 powered wheels, 2 omni wheels in the front, and 2 traction wheels in the back. This allows for easy turning, as well as enough traction to drive around the field successfully. Four-wheel drive is more common for beginner teams, as it is easier to understand than mecanum drive, and is easier to code from the programming side. still working on pics and more mechanisms
 
 ###
 
