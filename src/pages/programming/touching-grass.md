@@ -4,4 +4,4 @@ description: So you have a friend who needs to touch some grass.
 layout: ../../layouts/MainLayout.astro
 ---
 
-Some people just need to touch grass.
+Some people like u just need to touch grass.
