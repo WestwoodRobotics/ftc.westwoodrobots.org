@@ -51,6 +51,10 @@ export const SIDEBAR = {
 		{ text: 'Getting started with Autodesk', link: 'autodesk'},
 		{ text: 'Advanced tips and tricks', link: 'tips-tricks'},
 
+		{ text: 'Manufacturing', header: true, link: 'maufacturing/' },
+		{ text: '3D printing', link:'3dp'},
+		{ text: 'Other tools', link:'other-tools'}, //danerous stuff
+		
 		{ text: 'Hardware', header: true, link: 'hardware/'},
 		{ text: 'Motor Assembly', link: 'MotorAssembly'},
 		{ text: 'Shaft Assembly', link: 'ShaftAssembly'},
