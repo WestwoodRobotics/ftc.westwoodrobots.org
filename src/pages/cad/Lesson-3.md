@@ -8,7 +8,7 @@ To access the same parts we have in the ftc closet, we have the FTC Parts List. 
 # H1
 ## H2
 ### H3
-**bold text**
+**bold text**  
 *italicized text*
 > blockquote
 1. First item
