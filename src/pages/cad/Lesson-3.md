@@ -3,7 +3,7 @@ title: Lesson 3 - Assemblies
 description: Lesson 3 is the introduction to assemblies, importing parts, and basic mates.
 layout: ../../layouts/MainLayout.astro
 ---
-Stuff to be done on this page:
+Stuff to be done on this page:  
 -[ ] Write out the Inserting Parts guide
 -[ ] Add pictures to the Inserting Parts guide
 -[ ] Write out fasten and revolute mates
