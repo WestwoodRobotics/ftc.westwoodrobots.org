@@ -1,5 +1,5 @@
 ---
-title: Touching Grass for the First Time
-description: So you have a friend who needs to touch some grass.
+title: Lesson 3 - Drivetrain
+description: Tank Drive and Mecanum Drive
 layout: ../../layouts/MainLayout.astro
 ---
