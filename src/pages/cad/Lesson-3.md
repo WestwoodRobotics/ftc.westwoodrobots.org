@@ -43,9 +43,8 @@ yadda
 ### Inserting the Part
   Once you have found the part you want to insert, click on it and move your cursor onto your assembly. A yellow preview of the item will follow your cursor around, and you left click to insert it.
 > Needs 3 Images          in          a         row  (do some cool formatting)
-  When you have inserted the part, hit the check mark to confirm the insertion. Clicking the X or hitting the Esc key will result in the insertion being canceled, though a popup will give you 30 seconds to restore the insertion.
 
-![alt text](src/images/mewhenthe.gif)
+  When you have inserted the part, hit the check mark to confirm the insertion. Clicking the X or hitting the Esc key will result in the insertion being canceled, though a popup will give you 30 seconds to restore the insertion.
 
 <summary> Inserting </summary>
   :)
