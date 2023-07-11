@@ -15,7 +15,7 @@ Stuff to be done on this page:
   To insert a part, first click the "Insert" button at the top left of the screen.
 > Needs Image
 
-  The "Inserting Parts and Assemblies" window starts on the "Current Document" tab by default, so if you are only trying to import a part or assembly from the document you are currently on, you can skip to [Inserting-the-Part](###inserting-the-part). If you are trying to insert a part or assembly from the FTC Parts List, go to the "Other Documents" tab.
+  The "Inserting Parts and Assemblies" window starts on the "Current Document" tab by default, so if you are only trying to import a part or assembly from the document you are currently on, you can skip to [Inserting the Part](#inserting-the-part). If you are trying to insert a part or assembly from the FTC Parts List, go to the "Other Documents" tab.
 > Needs Image
 
 yadda 
@@ -47,7 +47,6 @@ yadda
   When you have inserted the part, hit the check mark to confirm the insertion. Clicking the X or hitting the Esc key will result in the insertion being canceled, though a popup will give you 30 seconds to restore the insertion.
 
 <summary> Inserting </summary>
-  :)
 
 ## Mates/Constraints
 ### Fasten Mate
