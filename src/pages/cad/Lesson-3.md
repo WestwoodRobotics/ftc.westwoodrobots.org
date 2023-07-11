@@ -8,7 +8,7 @@ To access the same parts we have in the ftc closet, we have the FTC Parts List. 
 To insert a part, first click the "Insert" button at the top left of the screen.
 > Needs Image
 
-![goofy](me when the .gif)
+<IMG SRC="me when the .gif">
 
 <h2><summary> Inserting </summary></h2>
   :)
