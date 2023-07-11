@@ -6,12 +6,11 @@ layout: ../../layouts/MainLayout.astro
 ## Inserting Parts
 To access the same parts we have in the ftc closet, we have the FTC Parts List. This section will explain how to insert parts from that folder or from any of your other documents.  
 To insert a part, first click the "Insert" button at the top left of the screen.
-> Needs Image
+> Needs Image  
 ![goofy](me when the .gif)
 
-<details><summary>Inserting </summary>
-  test test test
-</details>
+<summary> <h2>Inserting</h2> </summary>
+  :)
 
 ## Mates/Constraints
 ### Fasten Mate
