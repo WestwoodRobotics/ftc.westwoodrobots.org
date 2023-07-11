@@ -15,7 +15,7 @@ Stuff to be done on this page:
   To insert a part, first click the "Insert" button at the top left of the screen.
 > Needs Image
 
-  The "Inserting Parts and Assemblies" window starts on the "Current Document" tab by default, so if you are only trying to import a part or assembly from the document you are currently on, you can skip to [Inserting the Part](###Inserting-the-Part). If you are trying to insert a part or assembly from the FTC Parts List, go to the "Other Documents" tab.
+  The "Inserting Parts and Assemblies" window starts on the "Current Document" tab by default, so if you are only trying to import a part or assembly from the document you are currently on, you can skip to [Inserting-the-Part](###Inserting-the-Part). If you are trying to insert a part or assembly from the FTC Parts List, go to the "Other Documents" tab.
 > Needs Image
 
 yadda 
