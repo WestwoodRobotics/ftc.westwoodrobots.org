@@ -4,10 +4,10 @@ description: Lesson 3 is the introduction to assemblies, importing parts, and ba
 layout: ../../layouts/MainLayout.astro
 ---
 Stuff to be done on this page:  
--[ ] Write out the Inserting Parts guide
--[ ] Add pictures to the Inserting Parts guide
--[ ] Write out fasten and revolute mates
--[ ] Add pictures to the mate section
+ - [ ] Write out the Inserting Parts guide
+ - [ ] Add pictures to the Inserting Parts guide
+ - [ ] Write out fasten and revolute mates
+ - [ ] Add pictures to the mate section
 
 ## Inserting Parts and Assemblies
   To access the same parts we have in the ftc closet, we have the FTC Parts List. This section will explain how to insert parts from that folder or from any of your other documents.  
