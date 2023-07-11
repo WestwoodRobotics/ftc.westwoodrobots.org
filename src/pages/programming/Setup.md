@@ -9,7 +9,6 @@ layout: ../../layouts/MainLayout.astro
 ![turn on studio](https://i.ibb.co/mbbywMk/windows-Shortcut.png)
 
 ### Set Up Git
-https://github.com/git-for-windows/git/releases/download/v2.41.0.windows.2/PortableGit-2.41.0.2-64-bit.7z.exe
 First, download git [Here](https://github.com/git-for-windows/git/releases/download/v2.41.0.windows.2/PortableGit-2.41.0.2-64-bit.7z.exe).
 
 ## Set-up Roadrunner Quickstart
