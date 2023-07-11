@@ -11,7 +11,7 @@ To insert a part, first click the "Insert" button at the top left of the screen.
 
 <details><summary>Inserting </summary>
   test test test
-<details>
+</details>
 
 ## Mates/Constraints
 ### Fasten Mate
