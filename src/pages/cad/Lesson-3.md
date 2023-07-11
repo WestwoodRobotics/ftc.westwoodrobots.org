@@ -46,7 +46,11 @@ yadda
 
   When you have inserted the part, hit the check mark to confirm the insertion. Clicking the X or hitting the Esc key will result in the insertion being canceled, though a popup will give you 30 seconds to restore the insertion.
 
-<summary> Inserting </summary>
+<details> <summary> Yo-yo  [] </summary>
+    |
+    |
+    O
+</details>
 
 ## Mates/Constraints
 ### Fasten Mate
