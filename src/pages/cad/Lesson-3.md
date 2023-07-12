@@ -29,8 +29,10 @@ Stuff to be done on this page:
 }
 ```
 
-| Header | Title |
-| Paragraph | Text |
+This is the amazing race I undertook:  
+| Insert | Other Documents | FTC Robotics Parts Users | goBILDA | MOTION | Motors |
+| ------ | --------------- | ------------------------ | ------- | ------ | ------ |
+|  Image |      Image2     |          Image3          | Image4  | Image5 | Image6 |
 
 
 ### Inserting the Part
@@ -39,10 +41,10 @@ Stuff to be done on this page:
 
   When you have inserted the part, hit the check mark to confirm the insertion. Clicking the X or hitting the Esc key will result in the insertion being canceled, though a popup will give you 30 seconds to restore the insertion.
 
-<details> <summary> Yo-yo  []  </summary>  
-    |  
-    |  
-    O  
+<details> <summary> Click for a surprise! :D  </summary>
+._. <-- funny looking cat  
+-|-  
+/ \  
 </details>
 
 ## Mates/Constraints
