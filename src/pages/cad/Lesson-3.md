@@ -22,17 +22,18 @@ Stuff to be done on this page:
 | ----------- | ----------- |
 
 ```
-{
-  "firstName": "John",
-  "lastName": "Smith",
-  "age": 25
-}
+This is much better
+```
+> than this
+
+```
+for normal text because it looks cooler in my opinion
 ```
 
-This is the amazing race I undertook:  
-| Insert | Other Documents | FTC Robotics Parts Users | goBILDA | MOTION | Motors |
-| ------ | --------------- | ------------------------ | ------- | ------ | ------ |
-|  Image |      Image2     |          Image3          | Image4  | Image5 | Image6 |
+This is the path I took to the part:  
+| Insert | Other Documents | FTC Robotics Parts Users | goBILDA | MOTION | Motors | 5203 Series Yellow Jacket Planetary Gear Motors(configurable) -- v4 |
+| ------ | --------------- | ------------------------ | ------- | ------ | ------ | --- |
+|  Image |      Image2     |          Image3          | Image4  | Image5 | Image6 | Image7 |
 
 
 ### Inserting the Part
