@@ -12,7 +12,7 @@ Stuff to be done on this page:
 ## Inserting Parts and Assemblies
   To access the same parts we have in the ftc closet, we have the FTC Parts List. This section will explain how to insert parts from that folder or from any of your other documents.  
 
-  To insert a part, first click the "Insert" button at the top left of the screen.
+  To insert a part, first click the "Insert" button at the top left of the screen. Alternately, you can press the "s" key and click the top left image on the panel that pops up.
 > Needs Image of insert button being pressed
 
   The "Inserting Parts and Assemblies" window starts on the "Current Document" tab by default, so if you are only trying to import a part or assembly from the document you are currently on, you can skip to [Inserting the Part](#inserting-the-part). Otherwise, if you are trying to insert a part or assembly from the FTC Parts List, go to the "Other Documents" tab.
@@ -41,8 +41,10 @@ This is the path I took to the part:
 </details>
 
 ## Mates/Constraints
+Mates are geometric constraints that define an object's position and the ways it can move in relation to faces, edges, or vertices.
+
 ### Fasten Mate
-Mate but basic.
+Fasten Mates are the simplest mates, rigidly connecting 2 faces like glue. To use a fasten mate, click on 
 
 ### Revolute Mate
 Mate but spinny.
