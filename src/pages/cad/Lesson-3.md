@@ -18,21 +18,10 @@ Stuff to be done on this page:
   The "Inserting Parts and Assemblies" window starts on the "Current Document" tab by default, so if you are only trying to import a part or assembly from the document you are currently on, you can skip to [Inserting the Part](#inserting-the-part). Otherwise, if you are trying to insert a part or assembly from the FTC Parts List, go to the "Other Documents" tab.
 > Needs Image
 
-| Syntax | Description |
-| ----------- | ----------- |
-
-```
-This is much better
-```
-> than this
-
-```
-for normal text because it looks cooler in my opinion
-```
-
 This is the path I took to the part:  
 | Insert | Other Documents | FTC Robotics Parts Users | goBILDA | MOTION | Motors | 5203 Series Yellow Jacket Planetary Gear Motors(configurable) -- v4 |
 | ------ | --------------- | ------------------------ | ------- | ------ | ------ | --- |
+|       |           |      | | | | |
 |  Image |      Image2     |          Image3          | Image4  | Image5 | Image6 | Image7 |
 
 
