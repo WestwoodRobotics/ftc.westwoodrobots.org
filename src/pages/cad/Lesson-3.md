@@ -13,7 +13,8 @@ Stuff to be done on this page:
   To access the same parts we have in the ftc closet, we have the FTC Parts List. This section will explain how to insert parts from that folder or from any of your other documents.  
 
   To insert a part, first click the "Insert" button at the top left of the screen. Alternately, you can press the "s" key and click the top left image on the panel that pops up.
-> Needs Image of insert button being pressed
+
+![Insert Button Being Pressed](https://raw.githubusercontent.com/WestwoodRobotics/wwroboftc/a7afa2cfaa397785d1d404d625a2f96546ec7051/src/images/CAD/Lesson-3/insert-button-pressed.png)
 
   The "Inserting Parts and Assemblies" window starts on the "Current Document" tab by default, so if you are only trying to import a part or assembly from the document you are currently on, you can skip to [Inserting the Part](#inserting-the-part). Otherwise, if you are trying to insert a part or assembly from the FTC Parts List, go to the "Other Documents" tab.
 > Needs Image of starting "Inserting Parts and Assemblies" window
