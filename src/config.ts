@@ -37,6 +37,7 @@ export const SIDEBAR = {
 		{ text: 'Programming', header: true, link: 'programming/' },
 		{ text: 'Setup your coding workspace', link: 'Setup' },
 		{ text: 'Lesson 2', link: 'lesson-2'},
+		{ text: 'Lesson 3', link: 'lesson-3'},
 		{ text: 'How to touch grass', link: 'touching-grass'},
 		
 
