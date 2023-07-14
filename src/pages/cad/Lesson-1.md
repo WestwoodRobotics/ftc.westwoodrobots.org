@@ -27,7 +27,7 @@ Video (vex but gets the point across): <iframe width="560" height="315" src="htt
 
 #### Four-Wheel Drive
 Four-wheel drive consists of 4 powered wheels, 2 omni wheels in the front, and 2 traction wheels in the back. This allows for easy turning, as well as enough traction to drive around the field successfully. Four-wheel drive is more common for beginner teams, as it is easier to understand than mecanum drive, and is easier to code from the programming side. still working on pics and more mechanisms
-<model-viewer alt="Gobilda Custom Mecanum Drive" ar="" ar-modes="webxr scene-viewer quick-look" camera-controls="" enable-pan="" seamless-poster="" shadow-intensity="1" src="https://cdn.statically.io/gh/gamemanual0/3d-models/main/4WD/revCustom4WD.glb" style="width:100%; height:500px;overflow:auto; --poster-color: transparent" ar-status="not-presenting"></model-viewer>
+![4 wheel drive drivetrain](https://github.com/WestwoodRobotics/wwroboftc/blob/main/src/images/CAD/Lesson-1/4-wheel-drive.png?raw=true)
 
 ###
 
