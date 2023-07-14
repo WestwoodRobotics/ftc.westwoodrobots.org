@@ -75,5 +75,8 @@ export const SIDEBAR = {
 		{ text: 'Help us find sponsors!', link: 'how-to-help-with-sponsors'},,
 
 		{ text: 'How to Contribute', header: true, link: 'contribute/' },
+
+		{ text: 'Archives', header: true, link: 'archives/' },
+		{ text: 'CAD', link: 'CAD' },
 	],
 };

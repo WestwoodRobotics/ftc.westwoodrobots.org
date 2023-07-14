@@ -3,6 +3,7 @@ title: Unit 3 - Onshape Tutorial
 description: Unit 2 teaches basic knowledge on how to operate the Onshape Software
 layout: ../../layouts/MainLayout.astro
 ---
+# *this page has been archived*
 
 ## How to Cad!!!
 

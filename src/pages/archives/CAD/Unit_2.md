@@ -3,6 +3,7 @@ title: Unit 2 - FTC Fundamentals
 description: Unit 2 introduces many common concepts of FTC that are used frequently througout the competition 
 layout: ../../layouts/MainLayout.astro
 ---
+# *this page has been archived*
 
 ## Chassis Basic/Complex
 

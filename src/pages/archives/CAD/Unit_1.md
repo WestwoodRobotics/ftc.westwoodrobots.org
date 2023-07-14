@@ -3,6 +3,7 @@ title: Unit 1 - Design Basics
 description: Unit 1 is the introduction of the concepts needed to design fully functional robots including the engineering design process and crucial strategies
 layout: ../../layouts/MainLayout.astro
 ---
+# *this page has been archived*
 
 ## Introduction to Engineering and Design
 
