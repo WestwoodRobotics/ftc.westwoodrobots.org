@@ -17,7 +17,7 @@ FTC robots incorporate many different mechanisms which allow the robot to functi
 **UPDATE for centerstage 23-24 season:** Due to the allowance of axon servos and developments in the FTC community recently, swerve has gained a lot more popularity. It'll still probably the most rare drivetrain you see, but not as rare any more. Read more here: 
 
 Here are some of the most common drivetrains used in FTC. A drivetrain is the mechanism that allows the robot to move around the field. 
-<iframe src="https://ftctutorials.com/translations/en-us/Robot/Drivetrains.pdf" frameborder="0" width="800"></iframe>
+<iframe src="https://ftctutorials.com/translations/en-us/Robot/Drivetrains.pdf#toolbar=0&navpanes=0&scrollbar=0" frameborder="0" width="800"></iframe>
 
 Here's a little more detail on 2 exceptionally popular ones.
 #### Mecanum Drivetrain
