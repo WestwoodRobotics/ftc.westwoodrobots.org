@@ -1,7 +1,7 @@
 ---
 title: CAD Archives
 description: Old CAD stuff.
-layout: ../../layouts/MainLayout.astro
+layout: ../../../layouts/MainLayout.astro
 ---
 
 ## Old Asynch CAD Unit Resource Lesson things.
