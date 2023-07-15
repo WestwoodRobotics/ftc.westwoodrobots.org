@@ -17,7 +17,7 @@ layout: ../../layouts/MainLayout.astro
  From the Other Documents tab, navigate to "FTC Robotics Parts Users", which has most of the ftc parts supplied by major FTC part vendors such as goBILDA and REV Robotics.
 ![Other Documents tab with FTC Robotics Parts Users selected](https://github.com/WestwoodRobotics/wwroboftc/blob/main/src/images/CAD/Lesson-3/other-documents.jpg?raw=true)
 
-From here, you can navigate through these folders to find the part you want to insert. I am going to show the way to insert a 5203 Series Yellow Jacket Planetary Gear Motor &mdash; a motor often used in our robot designs &mdash; and the exact path will be different for inserting different parts.
+From here, you can navigate through these folders to find the part you want to insert. I am going to show the way to insert a 5203 Series Yellow Jacket Planetary Gear Motor &mdash; a motor often used in our robot designs &mdash; and the exact path will be different for inserting different parts.  
 ![FTC Robotics Parts Users with goBILDA selected](https://github.com/WestwoodRobotics/wwroboftc/blob/main/src/images/CAD/Lesson-3/Insert-FTC-Parts-List.jpg?raw=true)
 ![goBILDA folder with MOTION selected](https://github.com/WestwoodRobotics/wwroboftc/blob/main/src/images/CAD/Lesson-3/goBILDA.jpg?raw=true)
 ![MOTION folder with Motors selected](https://github.com/WestwoodRobotics/wwroboftc/blob/main/src/images/CAD/Lesson-3/motion.jpg?raw=true)
