@@ -15,17 +15,19 @@ layout: ../../layouts/MainLayout.astro
 ![Insert Button Being Pressed](https://github.com/WestwoodRobotics/wwroboftc/blob/main/src/images/CAD/Lesson-3/insert-parts-and-assemblies.jpg?raw=true)
 
  From the Other Documents tab, navigate to "FTC Robotics Parts Users", which has most of the ftc parts supplied by major FTC part vendors such as goBILDA and REV Robotics.
-> Shall require an image of le "Other Documents" tab wit da ftc rpu highlighted
+![Other Documents tab with FTC Robotics Parts Users selected](https://github.com/WestwoodRobotics/wwroboftc/blob/main/src/images/CAD/Lesson-3/other-documents.jpg?raw=true)
 
-This is the path I took to the part:  
-| Insert | Other Documents | FTC Robotics Parts Users | goBILDA | MOTION | Motors | 5203 Series Yellow Jacket Planetary Gear Motors(configurable) -- v4 |
-| ------ | --------------- | ------------------------ | ------- | ------ | ------ | --- |
-|  Image |      Image2     |          Image3          | Image4  | Image5 | Image6 | Image7 |
+From here, you can navigate through these folders to find the part you want to insert. I am going to show the way to insert a 5203 Series Yellow Jacket Planetary Gear Motor &mdash; a motor often used in our robot designs &mdash; and the exact path will be different for inserting different parts.
+![FTC Robotics Parts Users with goBILDA selected](https://github.com/WestwoodRobotics/wwroboftc/blob/main/src/images/CAD/Lesson-3/Insert-FTC-Parts-List.jpg?raw=true)
+![goBILDA folder with MOTION selected](https://github.com/WestwoodRobotics/wwroboftc/blob/main/src/images/CAD/Lesson-3/goBILDA.jpg?raw=true)
+![MOTION folder with Motors selected](https://github.com/WestwoodRobotics/wwroboftc/blob/main/src/images/CAD/Lesson-3/motion.jpg?raw=true)
+![Motors folder with the 5203 yadda yadda Motor selected](https://github.com/WestwoodRobotics/wwroboftc/blob/main/src/images/CAD/Lesson-3/le-motor.jpg?raw=true)
 
 
 ### Inserting the Part
   Once you have found the part you want to insert, click on it and move your cursor onto your assembly. A yellow preview of the item will follow your cursor around, and you left click to insert it.
 > me need 3 images: example part (henceforth: motor) being highlighted, motor preview in viewport (w/ "Inserting Parts and Assemblies" window in view), y finalmente el motor actual con la ventana de insertar piezas y ensamblajes
+
 
   When you have inserted the part, hit the check mark to confirm the insertion. Clicking the X or hitting the Esc key will result in the insertion being canceled, though a popup will give you 30 seconds to restore the insertion.
 > Probably image here
