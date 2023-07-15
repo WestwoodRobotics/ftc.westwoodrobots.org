@@ -12,7 +12,7 @@ layout: ../../layouts/MainLayout.astro
 ![Insert Button Being Pressed](https://raw.githubusercontent.com/WestwoodRobotics/wwroboftc/a7afa2cfaa397785d1d404d625a2f96546ec7051/src/images/CAD/Lesson-3/insert-button-pressed.png)
 
   The "Inserting Parts and Assemblies" window starts on the "Current Document" tab by default, so if you are only trying to import a part or assembly from the document you are currently on, you can skip to [Inserting the Part](#inserting-the-part). Otherwise, if you are trying to insert a part or assembly from the FTC Parts List, go to the "Other Documents" tab.
-![Insert Button Being Pressed](https://raw.githubusercontent.com/WestwoodRobotics/wwroboftc/a7afa2cfaa397785d1d404d625a2f96546ec7051/src/images/CAD/Lesson-3/insert-parts-and-assemblies.jpg)
+![Insert Button Being Pressed](https://github.com/WestwoodRobotics/wwroboftc/blob/main/src/images/CAD/Lesson-3/insert-parts-and-assemblies.jpg?raw=true)
 
  From the Other Documents tab, navigate to "FTC Robotics Parts Users", which has most of the ftc parts supplied by major FTC part vendors such as goBILDA and REV Robotics.
 > Shall require an image of le "Other Documents" tab wit da ftc rpu highlighted
