@@ -48,4 +48,25 @@ One drawback of using setPower() is that the speed at which the motors rotate is
 ### Running Code
 ### Take Input From Controller
 The parent class (or superclass) of your teleop is the OpMode Class (note the "extends OpMode" in code above). The OpMode class has two gamepad variables declared - gamepad1 and gamepad2. The controller you will most likely be using is the one shown below:
+
 ![](https://preview.redd.it/1z70ah4vgoy71.png?width=256&format=png&auto=webp&s=b45eece3aa56f8cf4e12ffd9c0e9c86abd50397f)
+
+Here are the names of the main controls for the gamepad:
+| Control    | Code |
+| -------- | ------- |
+|Left Stick X Value|left_stick_x|
+|Left Stick Y Value|left_stick_y|
+|Right Stick X Value|right_stick_x|
+|Right Stick Y Value|right_stick_y|
+|Left Bumper Button|left_bumper|
+|Right Bumper Button|right_bumper|
+|Left Trigger Button|left_trigger|
+|Right Trigger Button|right_trigger|
+|Dpad Up|dpad_up|
+|Dpad Down|dpad_down|
+|Dpad Left|dpad_left|
+|Dpad Right|dpad_Right|
+|Button A|a|
+|Button B|b|
+|Button X|x|
+|Button Y|y|
