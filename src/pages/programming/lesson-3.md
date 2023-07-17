@@ -63,3 +63,8 @@ while (opModeIsActive()) {
 ```
 
 The values for the power of each wheel can be changed depending on the direction that you want the robot to move. For example, if you want the robot to go forward, all the values would be set to 1. If you want the robot to turn right, "frontRight" and "backRight" would be set to -1, and "frontLeft" and "backLeft" would be set to 1. Positive values mean that the wheels move forward, and negative values mean that the wheel moves backwards. The greater the magnitude of the value, the more power there is supplied to the wheel.
+
+
+## Mecanum Drive
+
+Click [here](https://gm0.org/en/latest/docs/software/tutorials/mecanum-drive.html#:~:text=Mecanum%20Physics,%2C%20translating%20while%20rotating%2C%20etc) to learn about how mecanum drive works and how to code it.
