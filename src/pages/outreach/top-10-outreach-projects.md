@@ -10,3 +10,5 @@ The community and awards
 ## The Ten:
 
 ### 1: Curing cancer using robotics at an impovershed orphanage
+
+### 2: Rescue of Ukranian and Syrian refugees utilizing FTC POWER PLAY
