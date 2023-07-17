@@ -1,5 +1,5 @@
 ---
-title: esson 3: Drivetrain
+title: Lesson 3 - Drivetrain
 description: Tank Drive and Mecanum Drive
 layout: ../../layouts/MainLayout.astro
 ---
