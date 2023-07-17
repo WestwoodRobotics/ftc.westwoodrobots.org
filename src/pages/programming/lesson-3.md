@@ -74,11 +74,12 @@ Mecanum drive is a type of drive that uses wheels that have rollers, which are a
 ### Movement
 Because of how the rollers are attatched to the wheel, when it spins it generates a propelling force perpendicular to the wheel axle. We can use this to allow the robot to move in any direction without changing its orientation. 
 Below is a diagram of the ways to move a robot based on the directions the wheels are spinning:
-![](https://www.roboteq.com/images/article-images/frontpage/wheel-rotations.jpg)
+![](https://gm0.org/en/latest/_images/mecanum-drive-directions.png)
 ### Programming
 
 #### Controls
 Let's make it so that the left joystick on the controller controls the strafing. So moving the left joystick forward moves the robot forward, moving the joystick left makes it go left, etc. We'll have the right joystick doing the turning. If the right joystick is moved left, then the robot turns left, and if it's moved right, then the robot turns right.
+
 ![](https://preview.redd.it/1z70ah4vgoy71.png?width=256&format=png&auto=webp&s=b45eece3aa56f8cf4e12ffd9c0e9c86abd50397f)
 
 #### Code
@@ -169,6 +170,3 @@ public class MecanumDrive extends LinearOpMode{
 ```
 Click [here](https://gm0.org/en/latest/docs/software/tutorials/mecanum-drive.html#:~:text=Mecanum%20Physics,%2C%20translating%20while%20rotating%2C%20etc) to learn about how mecanum drive works and how to code it.
 
-This is a really helpful picture for understanding the directions and mecanum equations:
-
-![](https://gm0.org/en/latest/_images/mecanum-drive-directions.png)
