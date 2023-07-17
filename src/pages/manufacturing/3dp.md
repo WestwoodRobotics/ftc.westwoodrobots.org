@@ -17,6 +17,7 @@ When cading parts to be printed try to avoid overhangs steeper than 50 degrees. 
 ### Prusa slicer setup
 
 Download: https://www.prusa3d.com/page/prusaslicer_424/
+
 In order to print you will need to install Prusa Slicer. This is where you turn your STL file (what you cadded) into a file the printer can use. Step one is to install it. Go to the link and download the standalone installer (This is important!) Then run it. Click no when it asks for an admin password and it will still install. Once it is installed you can now set it up.
 
 Click the configuration wizard button to get started. There will be a message asking you to install an update click “Don’t Install”.

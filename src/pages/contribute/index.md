@@ -87,6 +87,22 @@ To do so open [config.ts](https://github.com/WestwoodRobotics/wwroboftc/blob/mai
 ```ts
 { text: 'Text to be shown for the link', link: 'the link path minus the wwroboftc and main parent folder' },
 ```
+
+## Images
+I'm trying to find a better way currently, but for now adding images to this site is going to be a pain.
+Here is the process for adding images:
+1. is your image already online on another site? If so, less go, cuz its waaayy easier to add images this way. Simply click "copy image address" after right clicking the image you want. ![Copying the image address](https://github.com/WestwoodRobotics/wwroboftc/blob/main/src/images/Contribute/copy-image-address.png?raw=true) You can skip to step 6.
+2. Now if your image is not already online (ex: a screenshot), the process will be a little harder. First make sure your image is saved as either a png, jpg, or gif. If you want to add a file of another format ask <a href="https://discord.com/users/726608190023663666" target="_blank">Reet (Discord: DrIronfist#2548)</a>, <a href="https://discord.com/users/542163475380830208" target="_blank">Jadon (Discord: jadopotato#4717)</a>, or <a href="https://discord.com/users/770472531324698624" target="_blank">Abraham (Discord: Cesar_Oso#7229)</a> to add it to the site. 
+3. Now that you have your image, create the folder src/images/CAD hardware manufacturing programming outreach or contribute/page-name if it does not already exist. Add your image there. Now push your changes to github. 
+4. Once your image has been pushed to github, navigate on the github website to where your image is stored in the repo. Ex: ![Alt text](https://github.com/WestwoodRobotics/wwroboftc/blob/main/src/images/Contribute/image-in-repo.png?raw=true)
+5. Open the image on github. Right click on the image itself now, and click copy image address in the same manner as depicted in step 1. Use this link in the next step.
+6. Next create a markdown image tag where you would like you image to go. It looks like this:
+```md
+![alt text](image address)
+```
+7. Congratulatious, you have image.
+
+
 ### Other Changes to the Site
 If you have or want to gain programming experience, head over to the <a href="https://github.com/WestwoodRobotics/wwroboftc/issues" target="_blank">issues</a> tab of this repository on github to find coding tasks that need working on.
 

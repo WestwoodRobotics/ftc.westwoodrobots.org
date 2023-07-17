@@ -35,9 +35,10 @@ export const SIDEBAR = {
 	en: [
 		
 		{ text: 'Programming', header: true, link: 'programming/' },
-		{ text: 'Setup your coding workspace', link: 'Setup' },
-		{ text: 'Lesson 2', link: 'lesson-2'},
-		{ text: 'How to touch grass', link: 'touching-grass'},
+		{ text: 'Lesson 1: Setup Your Coding Workspace', link: 'lesson-1' },
+		{ text: 'Lesson 2: Motors and Controllers', link: 'lesson-2'},
+		{ text: 'Lesson 3: Drivetrains', link: 'lesson-3'},
+		{ text: 'How To Touch Grass', link: 'touching-grass'},
 		
 
 		{ text: 'CAD', header: true, link: 'cad/' },
@@ -45,9 +46,6 @@ export const SIDEBAR = {
 		{ text: 'Lesson 3', link:'Lesson-3'},
 		{ text: 'How to set up Onshape(DO FIRST)', link:'settingUpOnshape'},
 		{ text: 'CAD Practice', link: "cadPractice"},
-		{ text: 'Unit 1: Design Basics', link: 'Unit_1'},
-		{ text: 'Unit 2: FTC Fundamentals', link: 'Unit_2'},
-		{ text: 'Unit 3: Onshape Tutorials', link: 'Unit_3'},
 		{ text: 'CAD Workshop', link: 'Workshop'},
 		{ text: 'OnShape Extensions', link: 'onshape-extensions' },
 		{ text: 'Getting started with Autodesk', link: 'autodesk'},
@@ -74,5 +72,8 @@ export const SIDEBAR = {
 		{ text: 'Help us find sponsors!', link: 'how-to-help-with-sponsors'},,
 
 		{ text: 'How to Contribute', header: true, link: 'contribute/' },
+
+		{ text: 'Archives', header: true, link: 'archives/' },
+		{ text: 'CAD', link: 'CAD' },
 	],
 };
