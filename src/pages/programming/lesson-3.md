@@ -101,7 +101,8 @@ public class MecanumDrive extends LinearOpMode{
         waitForStart();
 
         while (opModeIsActive()) {
-            // joystick (these values can also be replaced with any values between -1 and 1)
+            // joystick 
+            //these values can also be replaced with any values between -1 and 1
             double drive = gamepad1.left_stick_y;
             double strafe = gamepad1.left_stick_x;
             double turn = gamepad1.right_stick_x;
