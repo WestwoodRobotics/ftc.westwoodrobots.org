@@ -10,7 +10,7 @@ There are 2 main types of drivetrains: tank drive and mecanum drive. In lesson 3
 
 ## Tank Drive
 ### Tank Drive Theoretically
-Tank drive is the simpler and more straightforward drivetrain. In tank drive, each side of the robot is controlled individually. In order for the robot to move forward or backwards, all 4 wheels move forward and backwards. For the robot to turn, one side has to move forward and the other side has to move backward.
+Tank drive is the simpler and more straightforward drivetrain. In tank drive, each side of the robot is controlled individually. In order for the robot to move forward or backwards, all 4 wheels move forward or backwards. For the robot to turn, one side has to move forward and the other side has to move backward.
 
 ### How To Code A Tank Drive
 First, you initialize your motors.
