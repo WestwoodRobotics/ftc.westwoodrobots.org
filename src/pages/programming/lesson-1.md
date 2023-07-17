@@ -9,7 +9,9 @@ layout: ../../layouts/MainLayout.astro
 ![turn on studio](https://i.ibb.co/mbbywMk/windows-Shortcut.png)
 
 ### Set Up Git
-First, download git [Here](src/images/programming/lesson-1/windows-Shortcut.png).
+First, download git [Here](src/images/programming/lesson-1/windows-Shortcut.png). \
+\
+Run the executable after downloading, and go through the steps to download. Remember to put the downloaded file somewhere you can find!
 
 ## Set-up Roadrunner Quickstart
 ## Sync Gradle
