@@ -173,5 +173,5 @@ public class MecanumDrive extends LinearOpMode{
 }
 
 ```
-Click [here](https://gm0.org/en/latest/docs/software/tutorials/mecanum-drive.html#:~:text=Mecanum%20Physics,%2C%20translating%20while%20rotating%2C%20etc) to learn about how mecanum drive works and how to code it.
+Click [here](https://gm0.org/en/latest/docs/software/tutorials/mecanum-drive.html#:~:text=Mecanum%20Physics,%2C%20translating%20while%20rotating%2C%20etc) to learn more about how mecanum drive works and how to code it.
 
