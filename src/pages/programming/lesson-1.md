@@ -21,7 +21,7 @@ Why do we import a project? A empty project means that it isnt set up to communi
 \
 We will use Git, a version control system, to backup our project and code. \
 Select the `Get From VCS` option.
-![Right option to import](https://i.ibb.co/mbbywMk/windows-Shortcut.png)
+![Right option to import](https://i.ibb.co/mbbywMk/GetFromVCS.png)
 
 ## Sync Gradle
 ## Wiring a motor
