@@ -11,7 +11,7 @@ Lets start setting up your workspace. Android studios should already be installe
 After you have done so, we are ready to start.
 
 ### Set Up Git(Version Control)
-First, download git [Here](src/images/programming/lesson-1/windows-Shortcut.png). \
+First, download git [Here](https://github.com/git-for-windows/git/releases/download/v2.41.0.windows.3/PortableGit-2.41.0.3-64-bit.7z.exe). \
 \
 Run the executable after downloading, and go through the steps to download. Remember to put the downloaded file somewhere you can find, as this will be necessary later.
 
