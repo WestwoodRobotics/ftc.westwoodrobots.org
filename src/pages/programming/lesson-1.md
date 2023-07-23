@@ -48,7 +48,7 @@ To sync, it we need to locate the gradle sync button, at the top right corner of
 ![Gradle button location](https://github.com/WestwoodRobotics/wwroboftc/blob/main/src/images/programming/lesson-1/GradleButton.png?raw=true) \
 \
 Press it, and then wait. \
-After a few minutes, the sync is completed. \
+After a few minutes, the sync is completed.
 
 #### **Congrats on finishing your setup!**
 
