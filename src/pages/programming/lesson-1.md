@@ -19,7 +19,8 @@ Run the executable after downloading, and go through the steps to download. Reme
 Next, you will have to import a FTC quickstart project. \
 Why do we import a project? A empty project means that it isnt set up to communicate with the hardware, and there will not be a library, for you to use, when coding.
 \
-We will use Git, a version control system, to backup our project and code. Select the `Get From VCS` option.
+We will use Git, a version control system, to backup our project and code. \
+Select the `Get From VCS` option.
 ![Right option to import](https://i.ibb.co/mbbywMk/windows-Shortcut.png)
 
 ## Sync Gradle
