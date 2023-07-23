@@ -6,7 +6,7 @@ layout: ../../layouts/MainLayout.astro
 ### Welcome to your first programming lesson
 ## Setting up android studios
 ### Turn on android studios
-![turn on studio](https://i.ibb.co/mbbywMk/windows-Shortcut.png)
+![turn on studio](src/images/programming/lesson-1/windows-Shortcut.png)
 Lets start setting up your workspace. Android studios should already be installed, so boot it up. \
 After you have done so, we are ready to start.
 
@@ -21,7 +21,7 @@ Why do we import a project? A empty project means that it isnt set up to communi
 \
 We will use Git, a version control system, to backup our project and code. \
 Select the `Get From VCS` option.
-![Right option to import](https://i.ibb.co/mbbywMk/GetFromVCS.png)
+![Right option to import](src\images\programming\lesson-1\GetFromVCS.png)
 
 ## Sync Gradle
 ## Wiring a motor
