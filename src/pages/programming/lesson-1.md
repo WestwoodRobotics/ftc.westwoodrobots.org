@@ -49,7 +49,7 @@ To sync, it we need to locate the gradle sync button, at the top right corner of
 \
 Press it, and then wait. \
 After a few minutes, the sync is completed. \
-\
+
 #### **Congrats on finishing your setup!**
 
 
