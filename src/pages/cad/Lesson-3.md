@@ -25,7 +25,7 @@ From here, you can navigate through these folders to find the part you want to i
 
 
 ### Inserting the Part
-  Once you have found the part you want to insert, click on it and move your cursor onto your assembly. A yellow preview of the item will appear on your cursor which can be inserted with a left click. When you have inserted the part, hit the check mark to confirm the insertion. Clicking the X or hitting the Esc key will result in the insertion being canceled, though a popup will give you 30 seconds to restore the insertion so it's no biggie.
+  Once you have found the part you want to insert, click on it and move your cursor onto your assembly. A yellow preview of the item will appear on your cursor which can be inserted with a left click. When you have inserted the part, hit the check mark to confirm the insertion. Clicking the X or hitting the Esc key will result in the insertion being canceled, though a popup will allow you 30 seconds to restore the insertion and revert any accidental cancels.
 ![Inserting Assembly step-by-step Diagram](https://github.com/WestwoodRobotics/wwroboftc/blob/main/src/images/CAD/Lesson-3/Inserting%20Assembly.jpg?raw=true)
 
 ## Mates/Constraints
