@@ -54,6 +54,6 @@ After a few minutes, the sync is completed.
 
 
 ## Testing the setup
-
+Nah dont
 ### Push Hello World(do with telemetry)
 ### Run code
