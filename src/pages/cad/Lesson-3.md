@@ -25,18 +25,8 @@ From here, you can navigate through these folders to find the part you want to i
 
 
 ### Inserting the Part
-  Once you have found the part you want to insert, click on it and move your cursor onto your assembly. A yellow preview of the item will follow your cursor around, and you left click to insert it.
-> me need 3 images: example part (henceforth: motor) being highlighted, motor preview in viewport (w/ "Inserting Parts and Assemblies" window in view), y finalmente el motor actual con la ventana de insertar piezas y ensamblajes
-
-
-  When you have inserted the part, hit the check mark to confirm the insertion. Clicking the X or hitting the Esc key will result in the insertion being canceled, though a popup will give you 30 seconds to restore the insertion.
-> Probably image here
-
-<details> <summary> Click for a surprise! :D  </summary>
-._. <-- funny looking cat  <br>
--|-  <br>
-/ \  <br>
-</details>
+  Once you have found the part you want to insert, click on it and move your cursor onto your assembly. A yellow preview of the item will appear on your cursor which can be inserted with a left click. When you have inserted the part, hit the check mark to confirm the insertion. Clicking the X or hitting the Esc key will result in the insertion being canceled, though a popup will allow you 30 seconds to restore the insertion and revert any accidental cancels.
+![Inserting Assembly step-by-step Diagram](https://github.com/WestwoodRobotics/wwroboftc/blob/main/src/images/CAD/Lesson-3/Inserting%20Assembly.jpg?raw=true)
 
 ## Mates/Constraints
 Mates are geometric constraints that define an object's position and the ways it can move in relation to faces, edges, or vertices.
@@ -48,7 +38,9 @@ Fasten Mates are the simplest mates, rigidly connecting 2 faces like glue. To us
 Mate but spinny.
 
 Stuff to be done on this page:  
- - [ ] Write out the Inserting Parts guide
- - [ ] Add pictures to the Inserting Parts guide
+ - [X] Write out the Inserting Parts guide
+ - [X] Add pictures to the Inserting Parts guide
  - [ ] Write out fasten and revolute mates
  - [ ] Add pictures to the mate section
+ - [ ] Touch grass
+ - [ ] How to insert cat gif????
