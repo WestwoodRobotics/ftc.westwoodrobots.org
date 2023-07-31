@@ -43,6 +43,7 @@ export const SIDEBAR = {
 
 		{ text: 'CAD', header: true, link: 'cad/' },
 		{ text: 'Lesson 1', link:'Lesson-1'},
+		{ text: 'Lesson 2', link:'Lesson-2'},
 		{ text: 'Lesson 3', link:'Lesson-3'},
 		{ text: 'How to set up Onshape(DO FIRST)', link:'settingUpOnshape'},
 		{ text: 'CAD Practice', link: "cadPractice"},
