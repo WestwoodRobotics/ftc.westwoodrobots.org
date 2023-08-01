@@ -9,7 +9,7 @@ In this lesson, you will learn about programming motors and how to control them 
 
 ## Motors
 ### Making A New Motor In Teleop
-One of the motor classes that we use is the [DcMotorEx Class](https://ftctechnh.github.io/ftc_app/doc/javadoc/index.html?com/qualcomm/robotcore/hardware/DcMotorEx.html)
+One of the motor classes that we use is the (https://preview.redd.it/1z70ah4vgoy71.png width=256&format=png&auto=webp&s=b45eece3aa56f8cf4e12ffd9c0e9c86abd50397f)
 We declare them at the beginning of the code, inside of the Teleop class, and initialize them in the init() method. A lot of the other code will be explained but make sure to pay attention to how we declare and initialize the motor ("private DcMotorEx" and "hardwareMap").
 ```java
 @TeleOp(name="Teleop")
