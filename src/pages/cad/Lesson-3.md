@@ -31,16 +31,19 @@ From here, you can navigate through these folders to find the part you want to i
 ## Mates/Constraints
 Mates are geometric constraints that define an object's position and the ways it can move in relation to faces, edges, or vertices.
 
+As you hover over an entity, a circle indicator will appear to indicate the actual position and alignment of the connector.  
+![Centered Indicator](https://github.com/WestwoodRobotics/wwroboftc/blob/main/src/images/CAD/Lesson-3/centered-indicator.jpg?raw=true)
+![Edge Connector](https://github.com/WestwoodRobotics/wwroboftc/blob/main/src/images/CAD/Lesson-3/edge-indicator.jpg?raw=true)
+![Corner Connector](https://github.com/WestwoodRobotics/wwroboftc/blob/main/src/images/CAD/Lesson-3/corner-indicator.jpg?raw=true)
+
 ### Fasten Mate
-Fasten Mates are the simplest mates, rigidly connecting 2 faces like glue. To use a fasten mate, click on 
+Fasten Mates are the simplest mates conceptually, and rigidly connects 2 entities with 0 degrees of freedom. When the connectors are fastened, the first connector moves to the second connector, unless the first connector is fixed in place or connected to piece that is fixed in place. To use a fasten mate, click on the icon that looks like two cylinder puzzle pieces connecting, which will make open a fasten mate window.
+![Fasten Mate Icon](https://github.com/WestwoodRobotics/wwroboftc/blob/main/src/images/CAD/Lesson-3/fasten-mate-icon.jpg.png?raw=true)
+![Fasten Mate Window](https://github.com/WestwoodRobotics/wwroboftc/blob/main/src/images/CAD/Lesson-3/fasten-tab.jpg?raw=true)
+
+Click on the first connector you want to fasten, then find and select the second connector. The fasten mate will apply on the screen, and to finalize it, just click the check mark.  
+![First Fasten Mate Connector](https://github.com/WestwoodRobotics/wwroboftc/blob/main/src/images/CAD/Lesson-3/first-mate-connector.jpg?raw=true)
+![Second Fasten Mate Connector](https://github.com/WestwoodRobotics/wwroboftc/blob/main/src/images/CAD/Lesson-3/second-mate-connector.jpg?raw=true)
 
 ### Revolute Mate
 Mate but spinny.
-
-Stuff to be done on this page:  
- - [X] Write out the Inserting Parts guide
- - [X] Add pictures to the Inserting Parts guide
- - [ ] Write out fasten and revolute mates
- - [ ] Add pictures to the mate section
- - [ ] Touch grass
- - [ ] How to insert cat gif????
