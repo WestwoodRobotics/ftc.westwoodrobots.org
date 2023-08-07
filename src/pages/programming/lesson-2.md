@@ -70,3 +70,11 @@ Here are the names of the main controls for the gamepad:
 |Button B|b|
 |Button X|x|
 |Button Y|y|
+
+### Telemetry
+Telemetry is a very useful way to check the robot's status from the driver hub. Most of the time, it will be used for things like initialization or runtime, but you can also use it to debug code and test code.
+The two main methods that are used for updating data in Telemetry are addData() and addLine().
+```java
+telemetry.addData("Status", "Initialized"); //prints on the screen "Status : Initialized"
+telemetry.addLine("Running!!!!!") //prints on the screen "Running!!!!!"
+telemetry.addLine("Hello World!"); //brings your robot to life and makes it start questioning its identity
