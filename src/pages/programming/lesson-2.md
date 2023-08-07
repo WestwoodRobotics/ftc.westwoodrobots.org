@@ -46,6 +46,7 @@ backRight.setPower(1);
 ```
 One drawback of using setPower() is that the speed at which the motors rotate is based on the voltage of the battery, so if the battery is low, the motors will spin slowly.
 ### Running Code
+In order for the robot to get the code, we need to connect the laptop to the control hub (or you can do something fancy I forgo how to do lol). Once it's connected, you should be able to run the code, which usually takes about 10 seconds. After it's done, get the driver hub paired with the robot, select the code you want to run from the driver hub, and press run!
 ### Take Input From Controller
 The parent class (or superclass) of your teleop is the OpMode Class (note the "extends OpMode" in code above). The OpMode class has two gamepad variables declared - gamepad1 and gamepad2. The controller you will most likely be using is the one shown below:
 
