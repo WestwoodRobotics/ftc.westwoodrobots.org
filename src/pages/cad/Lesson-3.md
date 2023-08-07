@@ -46,4 +46,11 @@ Click on the first connector you want to fasten, then find and select the second
 ![Second Fasten Mate Connector](https://github.com/WestwoodRobotics/wwroboftc/blob/main/src/images/CAD/Lesson-3/second-mate-connector.jpg?raw=true)
 
 ### Revolute Mate
-Mate but spinny.
+Revolute Mates are essential to adding motion to your assemblies, and they only allow 1 degree of freedom: rotation around the z axis. The first connector is considered the rotational point and the second is considered the stationary point. To create a revolute mate, first click the icon of a cylinder with 2 arrows curving around its sides, which opens the revolute mate window.   
+![Revolute Mate Icon](https://github.com/WestwoodRobotics/wwroboftc/blob/main/src/images/CAD/Lesson-3/revolute-icon.jpg?raw=true)
+![Revolute Mate Menu](https://github.com/WestwoodRobotics/wwroboftc/blob/main/src/images/CAD/Lesson-3/Revolute-tab.jpg?raw=true)
+
+Select the first connector, making sure the indicator is in the center of the circular face you are applying the mate to. For the second connector do the same, remembering to make sure the indicator is on the right plane of the stationary point, and still in the center of the circular face. Once the 2 parts have connected, hit the check mark to confirm the mate. 
+![First Revolute Mate Connector](https://github.com/WestwoodRobotics/wwroboftc/blob/main/src/images/CAD/Lesson-3/first-revolute-connector.jpg?raw=true)
+![Second Revolute Mate Connector](https://github.com/WestwoodRobotics/wwroboftc/blob/main/src/images/CAD/Lesson-3/second-revolute-connector.jpg?raw=true)
+![Final Revolute Mate Preview](https://github.com/WestwoodRobotics/wwroboftc/blob/main/src/images/CAD/Lesson-3/final-revolute-mate.jpg?raw=true)
