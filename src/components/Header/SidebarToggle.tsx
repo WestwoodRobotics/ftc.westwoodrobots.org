@@ -1,6 +1,6 @@
 import type { FunctionalComponent } from 'preact';
-import { h, Fragment } from 'preact';
 import { useState, useEffect } from 'preact/hooks';
+import * as React from 'react';
 
 const MenuToggle: FunctionalComponent = () => {
 	const [sidebarShown, setSidebarShown] = useState(false);

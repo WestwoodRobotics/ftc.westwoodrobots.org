@@ -1,16 +1,15 @@
 ---
-title: Setup Your workspace
+title: Setup Your Workspace
 description: This page will show you the necessary steps to start coding your FTC robot.
 layout: ../../layouts/MainLayout.astro
 ---
-### Welcome to your first programming lesson
-## Setting up android studios
-### Turn on android studios
+## Setting up Android Studio
+### Turn on Android Studio
 ![turn on studio](https://github.com/WestwoodRobotics/wwroboftc/blob/main/src/images/programming/lesson-1/windows-Shortcut.png?raw=true)
-Lets start setting up your workspace. Android studios should already be installed, so boot it up. \
+Lets start setting up your workspace. Android Studio should already be installed, so boot it up. \
 After you have done so, we are ready to start.
 
-### Set Up Git(Version Control)
+### Set Up Git (Version Control)
 First, download git [Here](https://github.com/git-for-windows/git/releases/download/v2.41.0.windows.3/PortableGit-2.41.0.3-64-bit.7z.exe). \
 \
 Run the executable after downloading, and go through the steps to download. Remember to put the downloaded file somewhere you can find, as this will be necessary later.
@@ -51,9 +50,3 @@ Press it, and then wait. \
 After a few minutes, the sync is completed.
 
 ## **Congrats on finishing your setup!**
-
-
-## Testing the setup
-Nah dont
-### Push Hello World(do with telemetry)
-### Run code
