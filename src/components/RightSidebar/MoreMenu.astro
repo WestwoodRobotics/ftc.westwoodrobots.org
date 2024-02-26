@@ -1,11 +1,11 @@
 ---
-import ThemeToggleButton from "./ThemeToggleButton.tsx";
-import * as CONFIG from "../../config";
+import ThemeToggleButton from "./ThemeToggleButton";
+
 const { editHref } = Astro.props;
-const showMoreSection = CONFIG.COMMUNITY_INVITE_URL || editHref;
+// const showMoreSection = CONFIG.COMMUNITY_INVITE_URL || editHref;
 ---
 
-{showMoreSection && <h2 class="heading">More</h2>}
+<!-- {showMoreSection && <h2 class="heading">More</h2>} -->
 <ul>
 	{editHref && (
 		<li class={`heading-link depth-2`}>
@@ -31,7 +31,7 @@ const showMoreSection = CONFIG.COMMUNITY_INVITE_URL || editHref;
 			</a>
 		</li>
 	)}
-	{CONFIG.COMMUNITY_INVITE_URL && (
+	<!-- {CONFIG.COMMUNITY_INVITE_URL && (
 		<li class={`heading-link depth-2`}>
 			<a href={CONFIG.COMMUNITY_INVITE_URL} target="_blank">
 				<svg
@@ -54,7 +54,7 @@ const showMoreSection = CONFIG.COMMUNITY_INVITE_URL || editHref;
 				<span>Join our community</span>
 			</a>
 		</li>
-	)}
+	)} -->
 </ul>
 <div style="margin: 2rem 0; text-align: center;">
 	<ThemeToggleButton client:visible />

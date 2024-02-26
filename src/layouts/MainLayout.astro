@@ -2,7 +2,6 @@
 import HeadCommon from "../components/HeadCommon.astro";
 import HeadSEO from "../components/HeadSEO.astro";
 import Header from "../components/Header/Header.astro";
-import Footer from "../components/Footer/Footer.astro";
 import PageContent from "../components/PageContent/PageContent.astro";
 import LeftSidebar from "../components/LeftSidebar/LeftSidebar.astro";
 import RightSidebar from "../components/RightSidebar/RightSidebar.astro";
@@ -18,7 +17,7 @@ const githubEditUrl = CONFIG.GITHUB_EDIT_URL && CONFIG.GITHUB_EDIT_URL + current
 <html dir={content.dir ?? "ltr"} lang={content.lang ?? "en-us"} class="initial">
 	<head>
 		<HeadCommon />
-		<HeadSEO {content} canonicalURL={canonicalURL} />
+		<HeadSEO {content} canonicalURL={canonicalURL} site={CONFIG.SITE} />
 		<title>{content.title ? `${content.title} 🚀 ${CONFIG.SITE.title}` : CONFIG.SITE.title}</title>
 		<style>
 			body {
@@ -109,7 +108,7 @@ const githubEditUrl = CONFIG.GITHUB_EDIT_URL && CONFIG.GITHUB_EDIT_URL + current
 		<Header {currentPage} />
 		<main class="layout">
 			<aside id="grid-left" class="grid-sidebar" title="Site Navigation">
-				<LeftSidebar {currentPage} />
+				<LeftSidebar {currentPage} /> 
 			</aside>
 			<div id="grid-main">
 				<PageContent {content} {githubEditUrl}>
@@ -117,7 +116,7 @@ const githubEditUrl = CONFIG.GITHUB_EDIT_URL && CONFIG.GITHUB_EDIT_URL + current
 				</PageContent>
 			</div>
 			<aside id="grid-right" class="grid-sidebar" title="Table of Contents">
-				<RightSidebar {content} {githubEditUrl} />
+				<RightSidebar {content} {githubEditUrl} /> 
 			</aside>
 		</main>
 		<script src="https://cdn.jsdelivr.net/npm/@docsearch/js@3"></script>

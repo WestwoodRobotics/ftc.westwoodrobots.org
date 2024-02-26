@@ -3,11 +3,10 @@ import { useState, useCallback, useRef } from 'react';
 import * as CONFIG from '../../config';
 import '@docsearch/css/dist/style.css';
 import './Search.css';
-
-// @ts-ignore
 import * as docSearchReact from '@docsearch/react';
-// @ts-ignore
 import { createPortal } from 'react-dom';
+import * as React from 'react';
+
 
 export default function Search() {
 	const DocSearchModal = docSearchReact.DocSearchModal || docSearchReact.default.DocSearchModal;

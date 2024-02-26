@@ -1,5 +1,6 @@
+/** @jsxImportSource preact */
 import type { FunctionalComponent } from 'preact';
-import { h, Fragment } from 'preact';
+import { Fragment } from 'preact';
 import { useState, useEffect, useRef } from 'preact/hooks';
 import { MarkdownHeading } from 'astro';
 
@@ -26,7 +27,7 @@ const TableOfContents: FunctionalComponent<{ headings: MarkdownHeading[] }> = ({
 	}, []);
 
 	return (
-		<>
+		<Fragment>
 			<h2 class="heading">On this page</h2>
 			<ul>
 				<li class={`heading-link depth-2 ${activeId === 'overview' ? 'active' : ''}`.trim()}>
@@ -44,7 +45,7 @@ const TableOfContents: FunctionalComponent<{ headings: MarkdownHeading[] }> = ({
 						</li>
 					))}
 			</ul>
-		</>
+		</Fragment>
 	);
 };
 
