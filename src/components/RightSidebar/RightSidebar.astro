@@ -2,7 +2,7 @@
 import TableOfContents from "./TableOfContents";
 import MoreMenu from "./MoreMenu.astro";
 const { content, githubEditUrl } = Astro.props;
-const headings = content.astro.headings;
+const headings = Astro.props.headings || content.headings || [];
 ---
 
 <nav class="sidebar-nav" aria-labelledby="grid-right">

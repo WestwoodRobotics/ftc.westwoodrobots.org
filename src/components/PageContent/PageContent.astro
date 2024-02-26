@@ -4,7 +4,7 @@ import TableOfContents from "../RightSidebar/TableOfContents";
 
 const { content, githubEditUrl } = Astro.props;
 const title = content.title;
-const headings = content.astro.headings;
+const headings = Astro.props.headings;
 ---
 
 <article id="article" class="content">
