@@ -36,8 +36,10 @@ export const SIDEBAR = {
 		
 		{ text: 'Programming', header: true, link: 'programming/' },
 		{ text: 'Lesson 1: Setup Your Coding Workspace', link: 'lesson-1' },
+		{ text: 'Optional Setup', link: 'optional-setup'},
 		{ text: 'Lesson 2: Motors and Controllers', link: 'lesson-2'},
 		{ text: 'Lesson 3: Drivetrains', link: 'lesson-3'},
+		{ text: 'Useful Programming Resources', link: 'useful-programming-resources'},
 		
 
 		{ text: 'CAD', header: true, link: 'cad/' },
